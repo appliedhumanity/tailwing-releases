@@ -5,6 +5,18 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.0.0-beta.2</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 Beta 2</h2>
+    <p>Fixes a crash when a call app such as Zoom switched the microphone as the call started.</p>
+    <p>The menu-bar dot turns green while Tailwing is taking notes.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sun, 08 Nov 2026 04:52:56 +0000</pubDate>
+      <sparkle:version>202611080448</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/Tailwing-1.0.0-beta.2.dmg" type="application/octet-stream" sparkle:edSignature="oNM7K22liwkNRJ+KcvQ+FKwSyLBZTXSiB7Rh9WNutLeqKpLXZRCKxQXHWEeOlgAQw68NGUDm4Fi/8cszzzjiAQ==" length="41160061"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-beta.1</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 Beta 1</h2>
     <p>The first beta of Tailwing for Mac. Tailwing takes notes on your calls and writes them up on this Mac.</p>
