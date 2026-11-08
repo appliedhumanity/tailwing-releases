@@ -5,6 +5,23 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.0.0-beta.5</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 Beta 5</h2>
+    <p>Settings, Dictation has a dictionary you can search, edit, import and export, with names from your calendar and past meetings offered to add. Tailwing is in it to start with.</p>
+    <p>Snippets: say a short phrase and Tailwing types the text you saved for it, word for word.</p>
+    <p>When you correct a word Tailwing typed, it offers to add the word to your dictionary. "Suggest words from my edits" turns this off.</p>
+    <p>Your dictionary words are spelled your way in meeting transcripts and speaker names as well.</p>
+    <p>Notes stop when the Mac goes to sleep, and the meeting is written up as usual.</p>
+    <p>For builders, in Settings, Connections: a local API on this Mac, live events, a webhook or folder of JSON files after each meeting, tailwing:// links, Shortcuts actions and a Raycast extension. Each is off until you turn it on, and a private meeting never shows up in any of them.</p>
+    <p>A short line under How You Ran It points to private feedback on how you lead across all your meetings. Dismiss it, or turn it off in Settings, General.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sun, 08 Nov 2026 15:04:27 +0000</pubDate>
+      <sparkle:version>202611081500</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/2ce1313efdf3381f56dc6e4ca1e82ee0/Tailwing-1.0.0-beta.5.dmg" type="application/octet-stream" sparkle:edSignature="1DDCQfKCWymaCwujkSIIBdzWcQuhQgjVcu2oMQan6ODHNAIUu3K8+WdyQ4qo55ahZ79qAvyIOq+s7s0HVXTPDg==" length="40693974"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-beta.4</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 Beta 4</h2>
     <p>Setup downloads the speech model and then the writing model, with progress for each. The menu-bar icon stays dimmed until they're ready, and the setup window stays in front.</p>
