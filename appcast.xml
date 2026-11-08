@@ -5,6 +5,22 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.0.0-beta.6</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 Beta 6</h2>
+    <p>A design pass across the whole app. Every screen uses one spacing and type scale, and buttons and controls are easier to hit.</p>
+    <p>One name for each thing everywhere: Take Notes and Stop Taking Notes, Share with Attendees, How You Ran It. Menus use Title Case, and Settings is grouped by what you're trying to do.</p>
+    <p>Errors now say what happened and what to do next. A write-up that doesn't finish says what was kept and offers Try Again.</p>
+    <p>Empty screens say what the place is for and give you one thing to do.</p>
+    <p>Share is one menu, and the command palette shows each action with its keyboard shortcut.</p>
+    <p>Setup asks whether you manage people only when the answer changes something.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sun, 08 Nov 2026 20:22:25 +0000</pubDate>
+      <sparkle:version>202611082018</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/e3fe8f9986005d614737aacfd005cf5d/Tailwing-1.0.0-beta.6.dmg" type="application/octet-stream" sparkle:edSignature="sU/hVuPYc7N9EIxSfKq+MslK2/PcBxayeu985hMq7l/sY1Vn2GmD7dT3AbQBWam22gW/XyVTjXSk4Dqa+E/JBA==" length="40725579"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-beta.5</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 Beta 5</h2>
     <p>Settings, Dictation has a dictionary you can search, edit, import and export, with names from your calendar and past meetings offered to add. Tailwing is in it to start with.</p>
