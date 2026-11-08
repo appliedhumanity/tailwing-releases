@@ -5,6 +5,20 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.0.0-beta.3</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 Beta 3</h2>
+    <p>Steadier recording on calls: it keeps going when you switch headphones or microphones mid-call, and keeps the audio up to that point if a write fails.</p>
+    <p>Reliability fixes: your calendar stays in the menu bar when a read fails, cancelled meetings get no banner, and you can pause capture for an hour, until tomorrow or for a week.</p>
+    <p>Reset Tailwing, in Help, Troubleshooting, takes it back to first run.</p>
+    <p>The setup window opens in front of your other windows.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sun, 08 Nov 2026 07:04:39 +0000</pubDate>
+      <sparkle:version>202611080700</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/cb2ef570fb9ce88ec29ea3fabef75194/Tailwing-1.0.0-beta.3.dmg" type="application/octet-stream" sparkle:edSignature="slrfv/F9mLmo8kI6qEg9zm0v1Ud1GPRlioDIn/GT2ATOd+a3nKdp1WNtdEEIkFaHVx8oz//PxX7lYQpgjVt6AA==" length="39602687"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-beta.2</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 Beta 2</h2>
     <p>Fixes a crash when a call app such as Zoom switched the microphone as the call started.</p>
