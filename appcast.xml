@@ -4,5 +4,17 @@
     <title>Tailwing for Mac</title>
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
+    <item>
+      <title>Tailwing 1.0.0-beta.1</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 Beta 1</h2>
+    <p>The first beta of Tailwing for Mac. Tailwing takes notes on your calls and writes them up on this Mac.</p>
+    <p>Your notes, recordings and models move to a new folder the first time this version opens. Nothing is copied or uploaded, and nothing changes in the app.</p>
+    <p>Send Feedback, in the menu bar menu and in Help, writes us an email with your versions filled in.</p>]]></description>
+      <pubDate>Sun, 08 Nov 2026 03:32:55 +0000</pubDate>
+      <sparkle:version>202611080328</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/Tailwing-1.0.0-beta.1.dmg" type="application/octet-stream" sparkle:edSignature="ZzUnnoxSuxW4bvj3c4zNEJS2veYNAPzFvKNZdHe3KlaldlmBTAUGur11MWvmr6NyqNb2i23mA20064iC+9gDDA==" length="41227439"/>
+    </item>
   </channel>
 </rss>
