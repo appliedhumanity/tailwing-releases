@@ -5,6 +5,22 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.0.0-beta.4</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 Beta 4</h2>
+    <p>Setup downloads the speech model and then the writing model, with progress for each. The menu-bar icon stays dimmed until they're ready, and the setup window stays in front.</p>
+    <p>Every meeting opens on its write-up.</p>
+    <p>Dictation goes into the app you were typing in, even after you open Tailwing's menu or Settings, with a click when it starts and stops.</p>
+    <p>Pin on Top keeps the main window above other apps, and the side panel folds it into a column down the edge of the screen, with the live transcript above your notes. It opens by itself when notes start, and is hidden from screen shares.</p>
+    <p>Notes stop when a call goes quiet, even if the meeting app keeps the microphone, as Google Meet in Chrome can. A call that captured almost no audio says so and offers Delete.</p>
+    <p>Settings, Models can remove models you no longer use, and the calendar sign-in rows follow your sign-in.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sun, 08 Nov 2026 08:34:49 +0000</pubDate>
+      <sparkle:version>202611080830</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/d3f7bfe74fad955867308e475b847a85/Tailwing-1.0.0-beta.4.dmg" type="application/octet-stream" sparkle:edSignature="6hxyABDJ62Hxq3c2rDor+cWdXpZPxZiakX2UiBW+9L+/PgGZCuJ90yS91w1HjyBlL+IQkR0TLVbrfmlYtZ+hAQ==" length="39889978"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-beta.3</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 Beta 3</h2>
     <p>Steadier recording on calls: it keeps going when you switch headphones or microphones mid-call, and keeps the audio up to that point if a write fails.</p>
