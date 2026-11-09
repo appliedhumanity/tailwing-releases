@@ -5,6 +5,20 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.0.0-beta.9</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 Beta 9</h2>
+    <p>Tailwing Pro is here. It costs $19.99 once, or you can get it free by inviting two friends who start using Tailwing. Pro adds private mode, which removes names and personal details on your Mac before text leaves it, plus the work integrations and the option to turn off the footer on shared notes. Your license key is checked on your Mac, so Pro keeps working offline.</p>
+    <p>You can connect Notion (Pro) and Slack (free) in one click. Approve Tailwing in your browser and come back to Settings.</p>
+    <p>New Note now goes where you are. It opens in the folder you're looking at, and you can right-click a folder to add a note to it.</p>
+    <p>After your fifth write-up, Tailwing asks once how it's going. Nothing is sent unless you press Send. If you'd like to support Tailwing, Help, Say Thanks lets you send a small amount. It doesn't unlock anything.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 09 Nov 2026 05:56:39 +0000</pubDate>
+      <sparkle:version>202611090552</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/e6eeaccc1a3c20beb2685a6ed46d4d6c/Tailwing-1.0.0-beta.9.dmg" type="application/octet-stream" sparkle:edSignature="uT+MTgsCpcj3DkMlfoBPr6f8Axi36HP8mlAyWXQ1DGcy0sJzQ1T6vFbhXuFhV2QZKD2R+inbmi0KGikpzaDGBQ==" length="41179784"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-beta.8</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 Beta 8</h2>
     <p>Under the hood: transcription now runs on a shared engine that we also build Parafoil on. Your transcripts come out the same, word for word.</p>
