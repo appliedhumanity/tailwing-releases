@@ -5,6 +5,18 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.0.0-beta.8</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 Beta 8</h2>
+    <p>Under the hood: transcription now runs on a shared engine that we also build Parafoil on. Your transcripts come out the same, word for word.</p>
+    <p>Quitting during a meeting or a write-up, keeping your Mac awake while notes are written, cleaning up old recordings, and making sure only one copy of Tailwing runs now use the same shared code too.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 09 Nov 2026 01:05:10 +0000</pubDate>
+      <sparkle:version>202611090101</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/5a6cdbe12f5eea6a21abdfb1900e85bc/Tailwing-1.0.0-beta.8.dmg" type="application/octet-stream" sparkle:edSignature="1AZW1xDSbbA897zQ6etM2KlxP4doliWUsYQQx8PDfv3dI/D6p9MG0fyLn/IRTA5dwsSVd2t9Ob6KT9c/KG/tBA==" length="40431393"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-beta.7</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 Beta 7</h2>
     <p>A new look. Choose from four in Settings, General: Instrument, Flight, Night and Terminal. Each follows your Mac's light or dark setting.</p>
