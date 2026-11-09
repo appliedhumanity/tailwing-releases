@@ -5,6 +5,22 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.0.0-beta.7</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 Beta 7</h2>
+    <p>A new look. Choose from four in Settings, General: Instrument, Flight, Night and Terminal. Each follows your Mac's light or dark setting.</p>
+    <p>Instrument is the new default: cool whites, near-black text and one orange for the things you act on.</p>
+    <p>Flight is bright and airy, with rounded cards. Night is dark with a quiet field of stars. Terminal is a code editor theme for keyboard people, with the transcript laid out like a file.</p>
+    <p>Every color is checked for contrast in all eight versions, and text never relies on color alone.</p>
+    <p>A quiet animation plays on the welcome screen and when no meeting is open. It stops when Reduce Motion is on.</p>
+    <p>If you picked Paper, Soft or Sky before, you'll see Instrument, Flight or Night.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 09 Nov 2026 00:10:07 +0000</pubDate>
+      <sparkle:version>202611090005</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/bbe06e47ade8d2133816388c39121c8b/Tailwing-1.0.0-beta.7.dmg" type="application/octet-stream" sparkle:edSignature="znv7W/UHPhfL4ARGQ3bRTEasFeiIqtRgcQPLjlOqRKeSemKaY1WkW3ByLGPjVMw7ohB0Wjs8Qhc++itNsXciBg==" length="40264266"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-beta.6</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 Beta 6</h2>
     <p>A design pass across the whole app. Every screen uses one spacing and type scale, and buttons and controls are easier to hit.</p>
