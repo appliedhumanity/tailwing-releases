@@ -5,6 +5,20 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.0.0-beta.11</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 Beta 11</h2>
+    <p>You can take notes before a call. Open an upcoming meeting from Coming up, the menu bar or the meeting banner and start typing in My Notes. When the call starts, your notes go into that meeting, and the write-up leads with them. If the call never happens, the note stays as a plain note.</p>
+    <p>Names you give speakers now stick. Before, a name given while the write-up was still being made could be lost when it finished. Your names always win over Tailwing's own, the transcript and the people book follow them, and a name Tailwing can't match to a voice waits on the Speakers tab for you to place.</p>
+    <p>When you file a meeting from a recurring series, its earlier meetings move to that folder too, and new ones go there as they happen. You can undo it, turn it off for a folder, and choose whether moving one meeting out moves the whole series.</p>
+    <p>The main window no longer goes blank or draws under the window buttons when it's short, and This week lists your meetings without Pro.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 09 Nov 2026 20:17:28 +0000</pubDate>
+      <sparkle:version>202611092011</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/6a4349106dafa3a61e56654f2acfbc62/Tailwing-1.0.0-beta.11.dmg" type="application/octet-stream" sparkle:edSignature="aaapvzwMpQnxXvZ4LBWiQ4bTnyIMj24J5ncTsJC0ohgK3JL7QUa90pSFKmeXOtQ8uuQyLYFAwV6arcgREixYBg==" length="45246557"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-beta.10</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 Beta 10</h2>
     <p>Tailwing has a new speech engine. It is faster and more accurate on Apple silicon, and your transcript builds during the call, so your notes are ready sooner after you hang up. Speakers are named from the meeting invite where Tailwing can tell who is talking. If you'd like to try the Neural Engine, turn on Transcribe on the Neural Engine in Settings, Models.</p>
