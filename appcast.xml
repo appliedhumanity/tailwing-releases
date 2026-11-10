@@ -5,6 +5,18 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.0.0-beta.14</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 Beta 14</h2>
+    <p>Private meetings name no one. With Pro, a meeting you mark private is stored with names and personal details replaced on this Mac: its title, attendees, speakers, transcript and notes, the people in the meeting included. Each person keeps one tag, such as [person 2], throughout, and a private meeting stays off person pages and suggestions. In our tests this removes about 97% of names and personal details.</p>
+    <p>It never stores or sends anything half-done. If names and personal details can't be removed, nothing from a private call is saved or sent; Tailwing keeps it waiting on this Mac and tries again. Marking a meeting private stays free, and without Pro a private meeting is kept as it is and never leaves your Mac.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 10 Nov 2026 04:21:42 +0000</pubDate>
+      <sparkle:version>202611100416</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/45713a2a4219a8f6d3317578374c7e10/Tailwing-1.0.0-beta.14.dmg" type="application/octet-stream" sparkle:edSignature="+V9wtwCjows/p+XdGNL7Vf55VhJIthapbXnYOku2h0g5Wv7Se+Bei/o8cOOJxZgNg6KgWxBT5Md+IML4wZj8BA==" length="46964651"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-beta.13</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 Beta 13</h2>
     <p>Choose your own shortcuts. Dictation works with any key or key combination you record, including a single Option, Command, Control, Shift or fn key, held to talk or pressed to start and stop. Taking notes, a new note, Ask and opening Tailwing can each have a shortcut too. They all live in Settings, Shortcuts, take effect straight away, and Tailwing won't let two of them share the same keys.</p>
