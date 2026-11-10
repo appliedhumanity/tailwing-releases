@@ -5,6 +5,21 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.0.0-beta.13</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 Beta 13</h2>
+    <p>Choose your own shortcuts. Dictation works with any key or key combination you record, including a single Option, Command, Control, Shift or fn key, held to talk or pressed to start and stop. Taking notes, a new note, Ask and opening Tailwing can each have a shortcut too. They all live in Settings, Shortcuts, take effect straight away, and Tailwing won't let two of them share the same keys.</p>
+    <p>Connect AI tools in one click. Settings, Connections shows whether Claude Code, Claude Desktop, Cursor and Codex are installed and connected, and connects or disconnects each one for you. Your meetings are read on this Mac; the AI tool sees what it reads.</p>
+    <p>A clearer calendar. Tentative meetings and ones you haven't answered now show, marked as such. Holds with only you on them and no meeting link stay out. You can leave your next meeting out of the menu bar and your calendar out of its menu.</p>
+    <p>The live transcript model now downloads with the others, so the live transcript works on your next call. Taking notes reads clearly on a dark menu bar. The toolbar looks the same in every look, the Settings tabs no longer shift, and Permissions holds only the permissions macOS asks for.</p>
+    <p>When you use your ChatGPT plan through Codex, or a model at an address you entered yourself, Tailwing leaves calendar details such as meeting titles and guest names out of what it sends.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 10 Nov 2026 01:40:40 +0000</pubDate>
+      <sparkle:version>202611100135</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/00cf43c749cbfb0816cdc716cd0fdeca/Tailwing-1.0.0-beta.13.dmg" type="application/octet-stream" sparkle:edSignature="0qwCVyEAfIoiKX0ZzyaMfaKmo1QkWI/eEOMd2+YcfdLbLnWwFJBW5Xht59nkiejRh2ZO6GCDau+vGxIXmmieCQ==" length="46524221"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-beta.12</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 Beta 12</h2>
     <p>People can now be merged. When two names turn out to be one person, Tailwing suggests it with Same person? in People, and you can also choose two people yourself. Their meetings, what you owe each other and your notes come together under one name. You can undo a merge from People. Speaker names in the Speakers tab are matched to the meeting's invitees, and organizations are built from email domains, each with its own page.</p>
