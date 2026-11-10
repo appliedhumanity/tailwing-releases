@@ -5,6 +5,21 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.0.0-rc.2</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 RC 2</h2>
+    <p>Dictation that always answers. The dictation key is now heard on its own thread, so a busy Tailwing can't miss it, and the pill appears the moment you press. Recording starts straight away, so your first words are kept while the speech model gets ready, and dictation never waits behind a meeting being transcribed. A press that's ignored now says why on the pill: another key was pressed, it was held too briefly, or another app is protecting typing. Settings, Shortcuts tells you if another app may take the same key.</p>
+    <p>Choose your dictation sound in Settings, Dictation: Beep, Mechanical, Chime or Walkie-Talkie.</p>
+    <p>During a call, Flag This Moment marks a moment, with a note if you like, and the write-up gives flagged parts more weight. Catch Me Up summarizes the last few minutes, or everything since you joined. After the call, send next steps to Reminders, or with Pro to Things or Todoist.</p>
+    <p>The brief before a meeting suggests questions to ask, and write-ups have an Open questions section. The calendars already on your Mac are now the first, recommended choice in setup.</p>
+    <p>Right-click anyone in People to rename them, or to merge them with someone else. Ask is now called Ask Tailwing. Each look's tile shows its name, and the chosen one is highlighted.</p>
+    <p>A meeting on more than one of your calendars now shows once. Before an update installs, Tailwing checks for a newer one, so you always get the latest.</p>]]></description>
+      <pubDate>Tue, 10 Nov 2026 22:30:54 +0000</pubDate>
+      <sparkle:version>202611102225</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-rc.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/dc112a9fa935aec32c51fba75519d913/Tailwing-1.0.0-rc.2.dmg" type="application/octet-stream" sparkle:edSignature="2Rq8jTEkBS8Osf4g3kwU8T4s0JAQBx7xe6Di0qVEoNfQViKjal/arBF+4hWdhrUjYWevnAZa04IIAsIvKbOcAg==" length="47910763"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-rc.1</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 RC 1</h2>
     <p>This is the release candidate for Tailwing 1.0: everything from the betas, with live coaching, private meetings that name no one, your own shortcuts and one-click AI tools.</p>
@@ -56,20 +71,6 @@
       <sparkle:shortVersionString>1.0.0-beta.13</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/00cf43c749cbfb0816cdc716cd0fdeca/Tailwing-1.0.0-beta.13.dmg" type="application/octet-stream" sparkle:edSignature="0qwCVyEAfIoiKX0ZzyaMfaKmo1QkWI/eEOMd2+YcfdLbLnWwFJBW5Xht59nkiejRh2ZO6GCDau+vGxIXmmieCQ==" length="46524221"/>
-    </item>
-    <item>
-      <title>Tailwing 1.0.0-beta.12</title>
-      <description><![CDATA[<h2>Tailwing 1.0.0 Beta 12</h2>
-    <p>People can now be merged. When two names turn out to be one person, Tailwing suggests it with Same person? in People, and you can also choose two people yourself. Their meetings, what you owe each other and your notes come together under one name. You can undo a merge from People. Speaker names in the Speakers tab are matched to the meeting's invitees, and organizations are built from email domains, each with its own page.</p>
-    <p>Tailwing learns your words. After a meeting, Did you mean offers to fix a name or term it heard wrongly, and when you correct a word by hand it offers to add it to your dictionary. Accepted words are also fixed in your earlier notes, and you can undo that. Dictation learns from your corrections too, including after the first 30 seconds.</p>
-    <p>The dictation pill now sits at the bottom center of the screen.</p>
-    <p>Settings, Connections shows only the ways to connect that work today. Notion and Slack offer one-click Connect when it is available and a token or webhook field when it is not, and sign-ins that are not ready yet stay out of the list.</p>]]></description>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Mon, 09 Nov 2026 23:14:41 +0000</pubDate>
-      <sparkle:version>202611092309</sparkle:version>
-      <sparkle:shortVersionString>1.0.0-beta.12</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/5b6860f985a147f801c66c82e4cd416b/Tailwing-1.0.0-beta.12.dmg" type="application/octet-stream" sparkle:edSignature="DoxTzbUfbVLIOalHteplDHwIuscN1ts22Fo8xURktZcbJ3tAm8UAykMrM5214vmyuLWYJKWkZDHZiVEQ8fAXAQ==" length="46162820"/>
     </item>
   </channel>
 </rss>
