@@ -5,6 +5,18 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.0.0-rc.1</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 RC 1</h2>
+    <p>This is the release candidate for Tailwing 1.0: everything from the betas, with live coaching, private meetings that name no one, your own shortcuts and one-click AI tools.</p>
+    <p>Tailwing's own writing model now talks to the app over a private connection inside Tailwing's folder on this Mac, instead of a local network port. Nothing about how notes are written changes.</p>
+    <p>A fix to how a change of microphone mid-call is reported.</p>]]></description>
+      <pubDate>Tue, 10 Nov 2026 15:04:36 +0000</pubDate>
+      <sparkle:version>202611101459</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-rc.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/d39ed017ea43512c5ee6376e03836672/Tailwing-1.0.0-rc.1.dmg" type="application/octet-stream" sparkle:edSignature="8GXrb8lVUnUsHayF/kVxe4CE+gEO0sR2eaGoSxyjvKBxzrQ3p+XdMtb2UFjwGg3VJMtL5cksGSHUCY8t1SkfCA==" length="47397181"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-beta.15</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 Beta 15</h2>
     <p>Live coaching. Turn on Coach me during calls in Settings, Meetings, and while Tailwing takes notes the side panel shows your share of the talking and, now and then, a short nudge about what you're doing: "Let them finish", "One question at a time", "Ask what they think". Nudges describe what you did, never how anyone feels, and come at most once every 90 seconds. They can also sit in a small floating window.</p>
@@ -58,20 +70,6 @@
       <sparkle:shortVersionString>1.0.0-beta.12</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/5b6860f985a147f801c66c82e4cd416b/Tailwing-1.0.0-beta.12.dmg" type="application/octet-stream" sparkle:edSignature="DoxTzbUfbVLIOalHteplDHwIuscN1ts22Fo8xURktZcbJ3tAm8UAykMrM5214vmyuLWYJKWkZDHZiVEQ8fAXAQ==" length="46162820"/>
-    </item>
-    <item>
-      <title>Tailwing 1.0.0-beta.11</title>
-      <description><![CDATA[<h2>Tailwing 1.0.0 Beta 11</h2>
-    <p>You can take notes before a call. Open an upcoming meeting from Coming up, the menu bar or the meeting banner and start typing in My Notes. When the call starts, your notes go into that meeting, and the write-up leads with them. If the call never happens, the note stays as a plain note.</p>
-    <p>Names you give speakers now stick. Before, a name given while the write-up was still being made could be lost when it finished. Your names always win over Tailwing's own, the transcript and the people book follow them, and a name Tailwing can't match to a voice waits on the Speakers tab for you to place.</p>
-    <p>When you file a meeting from a recurring series, its earlier meetings move to that folder too, and new ones go there as they happen. You can undo it, turn it off for a folder, and choose whether moving one meeting out moves the whole series.</p>
-    <p>The main window no longer goes blank or draws under the window buttons when it's short, and This week lists your meetings without Pro.</p>]]></description>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Mon, 09 Nov 2026 20:17:28 +0000</pubDate>
-      <sparkle:version>202611092011</sparkle:version>
-      <sparkle:shortVersionString>1.0.0-beta.11</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/6a4349106dafa3a61e56654f2acfbc62/Tailwing-1.0.0-beta.11.dmg" type="application/octet-stream" sparkle:edSignature="aaapvzwMpQnxXvZ4LBWiQ4bTnyIMj24J5ncTsJC0ohgK3JL7QUa90pSFKmeXOtQ8uuQyLYFAwV6arcgREixYBg==" length="45246557"/>
     </item>
   </channel>
 </rss>
