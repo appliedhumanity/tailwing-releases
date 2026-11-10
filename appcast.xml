@@ -5,6 +5,20 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.0.0-beta.15</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 Beta 15</h2>
+    <p>Live coaching. Turn on Coach me during calls in Settings, Meetings, and while Tailwing takes notes the side panel shows your share of the talking and, now and then, a short nudge about what you're doing: "Let them finish", "One question at a time", "Ask what they think". Nudges describe what you did, never how anyone feels, and come at most once every 90 seconds. They can also sit in a small floating window.</p>
+    <p>Nudges follow what the meeting needs. Choose whether a meeting is to decide, unblock, develop someone, catch up or pitch, and change it during the call if it turns. After the call, one private line says how the meeting went for what it needed.</p>
+    <p>Coaching runs on this Mac only, with the model on your Mac, even if you use a cloud model for write-ups. It stays out of screen shares, notes you share, exports and connections, and only counts are kept with each meeting. It's off until you turn it on. Coaching from Parafoil: for how you change across weeks of meetings, there's Parafoil.</p>
+    <p>Releases now keep one copy of each download, which keeps updates fast.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 10 Nov 2026 07:50:48 +0000</pubDate>
+      <sparkle:version>202611100745</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/dfcfe6df74aec3d10c8d5718b122ff6f/Tailwing-1.0.0-beta.15.dmg" type="application/octet-stream" sparkle:edSignature="PKiiYBNYT//lBkQx/kc+blZoi32VuyPhq/Dy0cH20pLv2Ph8MZ1Z/i57G/yUI4waSoxkKEQZOLpJrt9RCmgMBA==" length="47264797"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-beta.14</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 Beta 14</h2>
     <p>Private meetings name no one. With Pro, a meeting you mark private is stored with names and personal details replaced on this Mac: its title, attendees, speakers, transcript and notes, the people in the meeting included. Each person keeps one tag, such as [person 2], throughout, and a private meeting stays off person pages and suggestions. In our tests this removes about 97% of names and personal details.</p>
@@ -58,21 +72,6 @@
       <sparkle:shortVersionString>1.0.0-beta.11</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/6a4349106dafa3a61e56654f2acfbc62/Tailwing-1.0.0-beta.11.dmg" type="application/octet-stream" sparkle:edSignature="aaapvzwMpQnxXvZ4LBWiQ4bTnyIMj24J5ncTsJC0ohgK3JL7QUa90pSFKmeXOtQ8uuQyLYFAwV6arcgREixYBg==" length="45246557"/>
-    </item>
-    <item>
-      <title>Tailwing 1.0.0-beta.10</title>
-      <description><![CDATA[<h2>Tailwing 1.0.0 Beta 10</h2>
-    <p>Tailwing has a new speech engine. It is faster and more accurate on Apple silicon, and your transcript builds during the call, so your notes are ready sooner after you hang up. Speakers are named from the meeting invite where Tailwing can tell who is talking. If you'd like to try the Neural Engine, turn on Transcribe on the Neural Engine in Settings, Models.</p>
-    <p>Your own notes now lead the write-up. Each point you typed comes first, in your words, with the detail from the conversation after it. Text from your notes is darker, with a bar beside it. If you add to your notes after the write-up is made, Update the Write-Up with Your Notes writes it again and keeps your edits.</p>
-    <p>Person pages and the brief are in Tailwing Pro. Open someone from People in the sidebar to see your next meeting with them, what you owe each other, what they keep raising, and your notes about them. Before and during a meeting, the brief lists what to cover, and one click adds a line to your notes. This week shows the next seven days with a brief for each meeting. When a line in your notes reads like a commitment, Tailwing offers to save it as an action. Pro is on sale now.</p>
-    <p>If your company has to approve Tailwing before you can connect Outlook or Teams, Tailwing now says so and gives you a link to send to IT. You can also add your Outlook account to the Mac's Calendar app, and Tailwing will read your meetings from there.</p>
-    <p>Tailwing stops sooner when a call ends. Once the call goes quiet, it stops within about 25 seconds, and if the call picks up again within two minutes, your notes carry on in the same meeting.</p>]]></description>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Mon, 09 Nov 2026 18:23:45 +0000</pubDate>
-      <sparkle:version>202611091818</sparkle:version>
-      <sparkle:shortVersionString>1.0.0-beta.10</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/9aeb5bb176ddc6b8910639d71c408438/Tailwing-1.0.0-beta.10.dmg" type="application/octet-stream" sparkle:edSignature="fstbW3qDmAO94HrGKr6ibYdr7GqYcOOT2wHGS6RcKs7p8bwLTmfUddRnXuxKJq5dmflpbX5nSONgJTCp+vVoBA==" length="44911644"/>
     </item>
   </channel>
 </rss>
