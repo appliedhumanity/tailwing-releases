@@ -5,6 +5,16 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.0.0-rc.2.1</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 RC 2.1</h2>
+    <p>A fix for dictation. In RC 2, holding the dictation key could end with "Held too briefly" even after a long hold, because the recording sometimes didn't reach Tailwing. Dictation is back to the way it worked in RC 1, with RC 2's clearer messages: a press that really was too short says so, and if the microphone doesn't start, the pill says that instead. The faster start from RC 2 comes back in a later release once it's fixed.</p>]]></description>
+      <pubDate>Tue, 10 Nov 2026 23:25:50 +0000</pubDate>
+      <sparkle:version>202611102320</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-rc.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/70cc3b847373a1f5126828612888a2e4/Tailwing-1.0.0-rc.2.1.dmg" type="application/octet-stream" sparkle:edSignature="KkUGuWYy/fO8HUAUkkyaPw5ZwHVGdNBaWJ1/I7YsaB5/N0aZUXsZe4zt7y6kgfGIQtok8nDQtUn6Gp8Cn34eDQ==" length="47852360"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-rc.2</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 RC 2</h2>
     <p>Dictation that always answers. The dictation key is now heard on its own thread, so a busy Tailwing can't miss it, and the pill appears the moment you press. Recording starts straight away, so your first words are kept while the speech model gets ready, and dictation never waits behind a meeting being transcribed. A press that's ignored now says why on the pill: another key was pressed, it was held too briefly, or another app is protecting typing. Settings, Shortcuts tells you if another app may take the same key.</p>
@@ -56,21 +66,6 @@
       <sparkle:shortVersionString>1.0.0-beta.14</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/45713a2a4219a8f6d3317578374c7e10/Tailwing-1.0.0-beta.14.dmg" type="application/octet-stream" sparkle:edSignature="+V9wtwCjows/p+XdGNL7Vf55VhJIthapbXnYOku2h0g5Wv7Se+Bei/o8cOOJxZgNg6KgWxBT5Md+IML4wZj8BA==" length="46964651"/>
-    </item>
-    <item>
-      <title>Tailwing 1.0.0-beta.13</title>
-      <description><![CDATA[<h2>Tailwing 1.0.0 Beta 13</h2>
-    <p>Choose your own shortcuts. Dictation works with any key or key combination you record, including a single Option, Command, Control, Shift or fn key, held to talk or pressed to start and stop. Taking notes, a new note, Ask and opening Tailwing can each have a shortcut too. They all live in Settings, Shortcuts, take effect straight away, and Tailwing won't let two of them share the same keys.</p>
-    <p>Connect AI tools in one click. Settings, Connections shows whether Claude Code, Claude Desktop, Cursor and Codex are installed and connected, and connects or disconnects each one for you. Your meetings are read on this Mac; the AI tool sees what it reads.</p>
-    <p>A clearer calendar. Tentative meetings and ones you haven't answered now show, marked as such. Holds with only you on them and no meeting link stay out. You can leave your next meeting out of the menu bar and your calendar out of its menu.</p>
-    <p>The live transcript model now downloads with the others, so the live transcript works on your next call. Taking notes reads clearly on a dark menu bar. The toolbar looks the same in every look, the Settings tabs no longer shift, and Permissions holds only the permissions macOS asks for.</p>
-    <p>When you use your ChatGPT plan through Codex, or a model at an address you entered yourself, Tailwing leaves calendar details such as meeting titles and guest names out of what it sends.</p>]]></description>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 10 Nov 2026 01:40:40 +0000</pubDate>
-      <sparkle:version>202611100135</sparkle:version>
-      <sparkle:shortVersionString>1.0.0-beta.13</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/00cf43c749cbfb0816cdc716cd0fdeca/Tailwing-1.0.0-beta.13.dmg" type="application/octet-stream" sparkle:edSignature="0qwCVyEAfIoiKX0ZzyaMfaKmo1QkWI/eEOMd2+YcfdLbLnWwFJBW5Xht59nkiejRh2ZO6GCDau+vGxIXmmieCQ==" length="46524221"/>
     </item>
   </channel>
 </rss>
