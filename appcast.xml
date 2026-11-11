@@ -5,6 +5,18 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.0.0-rc.4</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 RC 4</h2>
+    <p>Notes and write-ups are typeset for reading. Lines are a comfortable length, with spacing set for each look, bullets that hang in the margin, curly quotes and proper dashes, and figures that line up. Names with accents, such as Michał or Ștefan, now set in one typeface. Terminal stays dense and functional.</p>
+    <p>A meeting that appears on two of your calendars, or that a calendar tool copied from one to another, now shows as one meeting. Invites from other people are never merged into your own meetings, and a merge never changes a meeting's join link.</p>
+    <p>You can choose where alerts appear: automatically, under the Tailwing icon in the menu bar, at the top right or at the top left. Settings opens in its own window instead of as a tab, and the template choices explain what each one is for.</p>]]></description>
+      <pubDate>Wed, 11 Nov 2026 15:15:53 +0000</pubDate>
+      <sparkle:version>202611111510</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-rc.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/c8c4732d0711540dc1ed59512d476903/Tailwing-1.0.0-rc.4.dmg" type="application/octet-stream" sparkle:edSignature="B75CIZ3U278XZOTfVUckYZCjzZ0Mtr060aBe8HiQxAew0Ssj3+FcMERbbdwu0ZqbVytXeFLeuy7GdMXHkdRJDw==" length="48296765"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-rc.3</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 RC 3</h2>
     <p>Live coaching works again, and you can see it. It counts the whole call and its nudges fire, showing by the camera: tucked into the notch on a MacBook, or at the top of the call's screen on an external monitor. You can drag it anywhere. It runs on your Mac with the local model and stays out of screen shares. Coaching from Parafoil.</p>
@@ -53,20 +65,6 @@
       <sparkle:shortVersionString>1.0.0-rc.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/d39ed017ea43512c5ee6376e03836672/Tailwing-1.0.0-rc.1.dmg" type="application/octet-stream" sparkle:edSignature="8GXrb8lVUnUsHayF/kVxe4CE+gEO0sR2eaGoSxyjvKBxzrQ3p+XdMtb2UFjwGg3VJMtL5cksGSHUCY8t1SkfCA==" length="47397181"/>
-    </item>
-    <item>
-      <title>Tailwing 1.0.0-beta.15</title>
-      <description><![CDATA[<h2>Tailwing 1.0.0 Beta 15</h2>
-    <p>Live coaching. Turn on Coach me during calls in Settings, Meetings, and while Tailwing takes notes the side panel shows your share of the talking and, now and then, a short nudge about what you're doing: "Let them finish", "One question at a time", "Ask what they think". Nudges describe what you did, never how anyone feels, and come at most once every 90 seconds. They can also sit in a small floating window.</p>
-    <p>Nudges follow what the meeting needs. Choose whether a meeting is to decide, unblock, develop someone, catch up or pitch, and change it during the call if it turns. After the call, one private line says how the meeting went for what it needed.</p>
-    <p>Coaching runs on this Mac only, with the model on your Mac, even if you use a cloud model for write-ups. It stays out of screen shares, notes you share, exports and connections, and only counts are kept with each meeting. It's off until you turn it on. Coaching from Parafoil: for how you change across weeks of meetings, there's Parafoil.</p>
-    <p>Releases now keep one copy of each download, which keeps updates fast.</p>]]></description>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 10 Nov 2026 07:50:48 +0000</pubDate>
-      <sparkle:version>202611100745</sparkle:version>
-      <sparkle:shortVersionString>1.0.0-beta.15</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/dfcfe6df74aec3d10c8d5718b122ff6f/Tailwing-1.0.0-beta.15.dmg" type="application/octet-stream" sparkle:edSignature="PKiiYBNYT//lBkQx/kc+blZoi32VuyPhq/Dy0cH20pLv2Ph8MZ1Z/i57G/yUI4waSoxkKEQZOLpJrt9RCmgMBA==" length="47264797"/>
     </item>
   </channel>
 </rss>
