@@ -5,6 +5,19 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.0.0-rc.3</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 RC 3</h2>
+    <p>Live coaching works again, and you can see it. It counts the whole call and its nudges fire, showing by the camera: tucked into the notch on a MacBook, or at the top of the call's screen on an external monitor. You can drag it anywhere. It runs on your Mac with the local model and stays out of screen shares. Coaching from Parafoil.</p>
+    <p>While notes are being taken, the menu bar shows a ring instead of words. A trackpad tap can come with each nudge if you turn it on.</p>
+    <p>Settings has been tidied. Every row has an icon and states its setting in words, each tab opens with a line explaining what it is for, there is a search box, and anything that reaches the internet is labelled "Uses the internet". In Next steps, Things now shows as Ready or Not installed.</p>
+    <p>New installs dictate with Left Control. If you have already chosen a key, it is kept. This release also includes RC 2.2's fix for dictation after sleep.</p>]]></description>
+      <pubDate>Wed, 11 Nov 2026 02:24:53 +0000</pubDate>
+      <sparkle:version>202611110219</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-rc.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/fc8203cea38b24a0479fb4bf45230cd8/Tailwing-1.0.0-rc.3.dmg" type="application/octet-stream" sparkle:edSignature="+KccBdMOzPWp0Tz32zHAHM+Hvp7SP9OZpNW3V3EuyIabmyj5FLCQThRN1W1szFHeYEUBjCXEg1vV/I23EbONCg==" length="48049543"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-rc.2.1</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 RC 2.1</h2>
     <p>A fix for dictation. In RC 2, holding the dictation key could end with "Held too briefly" even after a long hold, because the recording sometimes didn't reach Tailwing. Dictation is back to the way it worked in RC 1, with RC 2's clearer messages: a press that really was too short says so, and if the microphone doesn't start, the pill says that instead. The faster start from RC 2 comes back in a later release once it's fixed.</p>]]></description>
@@ -54,18 +67,6 @@
       <sparkle:shortVersionString>1.0.0-beta.15</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/dfcfe6df74aec3d10c8d5718b122ff6f/Tailwing-1.0.0-beta.15.dmg" type="application/octet-stream" sparkle:edSignature="PKiiYBNYT//lBkQx/kc+blZoi32VuyPhq/Dy0cH20pLv2Ph8MZ1Z/i57G/yUI4waSoxkKEQZOLpJrt9RCmgMBA==" length="47264797"/>
-    </item>
-    <item>
-      <title>Tailwing 1.0.0-beta.14</title>
-      <description><![CDATA[<h2>Tailwing 1.0.0 Beta 14</h2>
-    <p>Private meetings name no one. With Pro, a meeting you mark private is stored with names and personal details replaced on this Mac: its title, attendees, speakers, transcript and notes, the people in the meeting included. Each person keeps one tag, such as [person 2], throughout, and a private meeting stays off person pages and suggestions. In our tests this removes about 97% of names and personal details.</p>
-    <p>It never stores or sends anything half-done. If names and personal details can't be removed, nothing from a private call is saved or sent; Tailwing keeps it waiting on this Mac and tries again. Marking a meeting private stays free, and without Pro a private meeting is kept as it is and never leaves your Mac.</p>]]></description>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 10 Nov 2026 04:21:42 +0000</pubDate>
-      <sparkle:version>202611100416</sparkle:version>
-      <sparkle:shortVersionString>1.0.0-beta.14</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/45713a2a4219a8f6d3317578374c7e10/Tailwing-1.0.0-beta.14.dmg" type="application/octet-stream" sparkle:edSignature="+V9wtwCjows/p+XdGNL7Vf55VhJIthapbXnYOku2h0g5Wv7Se+Bei/o8cOOJxZgNg6KgWxBT5Md+IML4wZj8BA==" length="46964651"/>
     </item>
   </channel>
 </rss>
