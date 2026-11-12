@@ -5,6 +5,21 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.0.0-rc.6</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 RC 6</h2>
+    <p>iCloud sync to Tailwing for iPhone works. A Mac that turned sync on in RC 5 sent nothing; it now sends the key, then meetings and notes, then audio a few parts at a time, so your meetings arrive first.</p>
+    <p>A meeting on an account that's in macOS Calendar and also signed in to Tailwing directly shows once. Copies from two different accounts are never joined.</p>
+    <p>Live coaching now all sits in the island by the camera. The island, the meeting banner, the dictation pill and the coaching cue say what they are when they appear, then shrink, and each can be dragged anywhere. Double-click an edge or choose Put Back to return one.</p>
+    <p>Dictation: the pill has a Copy button, a dictation that couldn't be typed stays on screen with its text, and Paste Last Dictation (Control-Command-V) types the last one again. In Mail, Outlook, and Gmail or Outlook on the web, dictated text is laid out as an email. Transcripts keep the spaces before numbers and rare words, and your own names are spelled right.</p>
+    <p>Audio is no longer kept by default: a new meeting's audio is deleted once its transcript and write-up are made. Audio from earlier meetings stays. Choose how long to keep audio in Settings, Privacy.</p>
+    <p>People are linked to an email address. Names without one stay as speaker labels in their meeting, and a voice that introduces itself is named.</p>]]></description>
+      <pubDate>Thu, 12 Nov 2026 04:07:50 +0000</pubDate>
+      <sparkle:version>202611120355</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-rc.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/3af052a2653906f20020b8ac18967431/Tailwing-1.0.0-rc.6.dmg" type="application/octet-stream" sparkle:edSignature="3UJYDJ+njYKrbfBFKvZIYhuviih4cZb7hFlt7FDrwxeKdIYLd8ynztxE+xlwz2JNVrkUxKiONaF/uJsfjR+cDQ==" length="50944068"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-rc.5</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 RC 5</h2>
     <p>iCloud sync, for Tailwing for iPhone. Turn it on in Settings, Privacy. Meetings, notes, write-ups, transcripts and people sync through your own iCloud, encrypted. Audio syncs only if you choose. A private meeting never leaves this Mac.</p>
@@ -50,21 +65,6 @@
       <sparkle:shortVersionString>1.0.0-rc.2.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/70cc3b847373a1f5126828612888a2e4/Tailwing-1.0.0-rc.2.1.dmg" type="application/octet-stream" sparkle:edSignature="KkUGuWYy/fO8HUAUkkyaPw5ZwHVGdNBaWJ1/I7YsaB5/N0aZUXsZe4zt7y6kgfGIQtok8nDQtUn6Gp8Cn34eDQ==" length="47852360"/>
-    </item>
-    <item>
-      <title>Tailwing 1.0.0-rc.2</title>
-      <description><![CDATA[<h2>Tailwing 1.0.0 RC 2</h2>
-    <p>Dictation that always answers. The dictation key is now heard on its own thread, so a busy Tailwing can't miss it, and the pill appears the moment you press. Recording starts straight away, so your first words are kept while the speech model gets ready, and dictation never waits behind a meeting being transcribed. A press that's ignored now says why on the pill: another key was pressed, it was held too briefly, or another app is protecting typing. Settings, Shortcuts tells you if another app may take the same key.</p>
-    <p>Choose your dictation sound in Settings, Dictation: Beep, Mechanical, Chime or Walkie-Talkie.</p>
-    <p>During a call, Flag This Moment marks a moment, with a note if you like, and the write-up gives flagged parts more weight. Catch Me Up summarizes the last few minutes, or everything since you joined. After the call, send next steps to Reminders, or with Pro to Things or Todoist.</p>
-    <p>The brief before a meeting suggests questions to ask, and write-ups have an Open questions section. The calendars already on your Mac are now the first, recommended choice in setup.</p>
-    <p>Right-click anyone in People to rename them, or to merge them with someone else. Ask is now called Ask Tailwing. Each look's tile shows its name, and the chosen one is highlighted.</p>
-    <p>A meeting on more than one of your calendars now shows once. Before an update installs, Tailwing checks for a newer one, so you always get the latest.</p>]]></description>
-      <pubDate>Tue, 10 Nov 2026 22:30:54 +0000</pubDate>
-      <sparkle:version>202611102225</sparkle:version>
-      <sparkle:shortVersionString>1.0.0-rc.2</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/dc112a9fa935aec32c51fba75519d913/Tailwing-1.0.0-rc.2.dmg" type="application/octet-stream" sparkle:edSignature="2Rq8jTEkBS8Osf4g3kwU8T4s0JAQBx7xe6Di0qVEoNfQViKjal/arBF+4hWdhrUjYWevnAZa04IIAsIvKbOcAg==" length="47910763"/>
     </item>
   </channel>
 </rss>
