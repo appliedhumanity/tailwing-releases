@@ -5,6 +5,21 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.0.0-rc.7</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 RC 7</h2>
+    <p>The app now comes in 24 languages. Choose one in Settings, General, Language; it sets the app's words and the language Tailwing expects to hear and writes notes in. The app asks you to restart for it to take effect. Separately, transcription covers all 25 languages Tailwing's speech model supports, Finnish included, so a meeting in Russian is still transcribed even though the app itself isn't in Russian.</p>
+    <p>Live translated subtitles. When a meeting is in a language other than yours, Tailwing asks once whether to translate it, with Always translate for that language. Subtitles appear at the bottom of the meeting window, and translation runs on this Mac.</p>
+    <p>You can also hear the translation spoken aloud in your own language, beside the subtitles. It's off by default; turn it on in Settings, Translation, with its own volume and speed. It needs a macOS voice for your language, and macOS has none yet for Estonian, Latvian or Maltese, so those stay subtitles only. Settings says where to download a better voice.</p>
+    <p>Private mode has its own group in Settings, Privacy, with three switches: Private mode, Hide everyone's names (the people in the meeting too, not only outsiders) and Private by default. Each says what it changes and what it costs: a meeting waits if names can't be removed. The meeting list now shows which meetings are private. Names are removed before text leaves this Mac, for every kind of send, including task notes and owners.</p>
+    <p>Write-ups use names rather than email addresses, check each owner against the people in the meeting, say a repeated point once and leave out filler and empty sections.</p>
+    <p>Settings tabs open without the pause, and there's a gear at the right end of the main window's toolbar, in every look. The Classic look follows the proportions of a 1990s desktop more closely.</p>]]></description>
+      <pubDate>Fri, 13 Nov 2026 08:25:14 +0000</pubDate>
+      <sparkle:version>202611130819</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-rc.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/a8af88a5daaab83c456f1383d83bfef9/Tailwing-1.0.0-rc.7.dmg" type="application/octet-stream" sparkle:edSignature="xJPaW98VogTH+rhpJ1jXVpsp8FomjjjX5BzKP6fhiPuW2fywR1+scBufLdxxPyz8OUNg9mwNU4B2vv7coK/vCg==" length="56139632"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-rc.6</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 RC 6</h2>
     <p>iCloud sync to Tailwing for iPhone works. A Mac that turned sync on in RC 5 sent nothing; it now sends the key, then meetings and notes, then audio a few parts at a time, so your meetings arrive first.</p>
@@ -55,16 +70,6 @@
       <sparkle:shortVersionString>1.0.0-rc.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/fc8203cea38b24a0479fb4bf45230cd8/Tailwing-1.0.0-rc.3.dmg" type="application/octet-stream" sparkle:edSignature="+KccBdMOzPWp0Tz32zHAHM+Hvp7SP9OZpNW3V3EuyIabmyj5FLCQThRN1W1szFHeYEUBjCXEg1vV/I23EbONCg==" length="48049543"/>
-    </item>
-    <item>
-      <title>Tailwing 1.0.0-rc.2.1</title>
-      <description><![CDATA[<h2>Tailwing 1.0.0 RC 2.1</h2>
-    <p>A fix for dictation. In RC 2, holding the dictation key could end with "Held too briefly" even after a long hold, because the recording sometimes didn't reach Tailwing. Dictation is back to the way it worked in RC 1, with RC 2's clearer messages: a press that really was too short says so, and if the microphone doesn't start, the pill says that instead. The faster start from RC 2 comes back in a later release once it's fixed.</p>]]></description>
-      <pubDate>Tue, 10 Nov 2026 23:25:50 +0000</pubDate>
-      <sparkle:version>202611102320</sparkle:version>
-      <sparkle:shortVersionString>1.0.0-rc.2.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/70cc3b847373a1f5126828612888a2e4/Tailwing-1.0.0-rc.2.1.dmg" type="application/octet-stream" sparkle:edSignature="KkUGuWYy/fO8HUAUkkyaPw5ZwHVGdNBaWJ1/I7YsaB5/N0aZUXsZe4zt7y6kgfGIQtok8nDQtUn6Gp8Cn34eDQ==" length="47852360"/>
     </item>
   </channel>
 </rss>
