@@ -5,6 +5,20 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.0.0-rc.8.1</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 RC 8.1</h2>
+    <p>This release fixes rc.8, which some of you installed for a short time on 13 November.</p>
+    <p>rc.8 couldn't open an existing library after the update, so your meetings didn't appear and features that read them, such as import and dictation, stopped working. Nothing was lost: rc.8 stopped before changing anything. This version opens your library, encrypts your notes and transcripts on this Mac as rc.8 intended, and keeps every meeting.</p>
+    <p>rc.8 could also delete a writing model you had already downloaded and fetch it again. This version checks the file and keeps it when it matches.</p>
+    <p>Everything else in rc.8 is here: Private mode, encrypted notes and transcripts, the enforced list of what can leave this Mac, and the rest. The welcome screen loses its dot pattern.</p>
+    <p>One thing is paused in this version: the connector that lets Claude and other AI tools read your meetings. Now that the library is encrypted, the connector can't yet reach its key, so those tools will say they couldn't read the Tailwing library. Your meetings are unaffected. The connector comes back in the next release, reading through Tailwing itself.</p>]]></description>
+      <pubDate>Sat, 14 Nov 2026 01:11:09 +0000</pubDate>
+      <sparkle:version>202611140105</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-rc.8.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/0dfc0d061eecc7aaba86c6e0ce18e9a8/Tailwing-1.0.0-rc.8.1.dmg" type="application/octet-stream" sparkle:edSignature="OBky89jn9BkLCWYhl6dovZMh3dZtfKQsyL4bIk72uZlhGKETZCSz0bGWJU7beYAKE27uoEQCFO0fFCq++L/eDw==" length="60643028"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-rc.7</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 RC 7</h2>
     <p>The app now comes in 24 languages. Choose one in Settings, General, Language; it sets the app's words and the language Tailwing expects to hear and writes notes in. The app asks you to restart for it to take effect. Separately, transcription covers all 25 languages Tailwing's speech model supports, Finnish included, so a meeting in Russian is still transcribed even though the app itself isn't in Russian.</p>
