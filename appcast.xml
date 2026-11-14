@@ -5,6 +5,18 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.0.0-rc.8.2</title>
+      <description><![CDATA[<h2>Tailwing 1.0.0 RC 8.2</h2>
+    <p>Notes now stop by themselves when a browser call ends. After a Meet in Chrome, Tailwing could go on taking notes until you stopped it: Chrome kept hold of the microphone, and a normal room is rarely quiet enough for Tailwing to decide the call was over.</p>
+    <p>This version watches the same signal as the orange microphone dot in your menu bar, so leaving the call ends notes within seconds. If you were only stepping away, the call taking the microphone again within two minutes picks up the same meeting.</p>
+    <p>The AI tools connector is still paused, as in RC 8.1. It comes back in the next release.</p>]]></description>
+      <pubDate>Sat, 14 Nov 2026 03:08:10 +0000</pubDate>
+      <sparkle:version>202611140302</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-rc.8.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/e913de999b88b9b4984b631be092aefe/Tailwing-1.0.0-rc.8.2.dmg" type="application/octet-stream" sparkle:edSignature="F9lkEE0PM93x4MNKi/xfX2WcYNB+M0m60IAwIq7OhYhQTxNLDmai8ILz/5UQ71Huif+hmTTUQ7OS4Q47DhGGDA==" length="60650401"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-rc.8.1</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 RC 8.1</h2>
     <p>This release fixes rc.8, which some of you installed for a short time on 13 November.</p>
@@ -59,18 +71,6 @@
       <sparkle:shortVersionString>1.0.0-rc.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/7649f504461b40cd976868e2af8d218d/Tailwing-1.0.0-rc.5.dmg" type="application/octet-stream" sparkle:edSignature="Q317TR1r7G9wBoFE6msRINzuUL35iV2nA6ryZX+QKBE6K43i50o1QOAxO3bBmiXMCJQqTZmMLDRsUwenpo5LAg==" length="48914957"/>
-    </item>
-    <item>
-      <title>Tailwing 1.0.0-rc.4</title>
-      <description><![CDATA[<h2>Tailwing 1.0.0 RC 4</h2>
-    <p>Notes and write-ups are typeset for reading. Lines are a comfortable length, with spacing set for each look, bullets that hang in the margin, curly quotes and proper dashes, and figures that line up. Names with accents, such as Michał or Ștefan, now set in one typeface. Terminal stays dense and functional.</p>
-    <p>A meeting that appears on two of your calendars, or that a calendar tool copied from one to another, now shows as one meeting. Invites from other people are never merged into your own meetings, and a merge never changes a meeting's join link.</p>
-    <p>You can choose where alerts appear: automatically, under the Tailwing icon in the menu bar, at the top right or at the top left. Settings opens in its own window instead of as a tab, and the template choices explain what each one is for.</p>]]></description>
-      <pubDate>Wed, 11 Nov 2026 15:15:53 +0000</pubDate>
-      <sparkle:version>202611111510</sparkle:version>
-      <sparkle:shortVersionString>1.0.0-rc.4</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/c8c4732d0711540dc1ed59512d476903/Tailwing-1.0.0-rc.4.dmg" type="application/octet-stream" sparkle:edSignature="B75CIZ3U278XZOTfVUckYZCjzZ0Mtr060aBe8HiQxAew0Ssj3+FcMERbbdwu0ZqbVytXeFLeuy7GdMXHkdRJDw==" length="48296765"/>
     </item>
   </channel>
 </rss>
