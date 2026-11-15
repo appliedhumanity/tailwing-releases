@@ -5,6 +5,26 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.1.0-beta.2</title>
+      <description><![CDATA[<h2>Tailwing 1.1 Beta 2</h2>
+    <p><strong>Setup that finishes by itself.</strong> Tailwing now downloads every model it needs on its own, shows how far along each one is, and tries again if a download stops. Dictation works as soon as its speech model is in, with no need to reopen the app. Settings, Models and Settings, Permissions use the same rows and the same words, and each opens with one line that says whether everything is ready.</p>
+    <p><strong>Private mode from the first screen.</strong> If you choose Private mode during setup, Tailwing downloads its models once and then stays offline. If a model is missing later, Settings, Models says so and offers Download Once, which leaves Private mode on.</p>
+    <p><strong>Better write-ups of long meetings.</strong> In meetings of 35 minutes and more, Tailwing now catches far more of the decisions and next steps, including the ones made late in the meeting.</p>
+    <p><strong>One document for your notes.</strong> Your own lines stay as you wrote them, and the write-up fills in around them. Anything you type after the write-up is included the next time it's written. Exports, the folder and webhook files, the local API and AI tools all get the same document, and the local API marks which lines are yours.</p>
+    <p><strong>A redesigned side panel.</strong> During a call it shows your notes with a strip of the transcript. After the call it shows the write-up, with Notes, Transcript and Ask a tap away.</p>
+    <p><strong>Dictation can read your browser tab.</strong> In Chrome, Arc, Edge or Brave, dictation can also spell the names on the page you're typing into. It's off until you turn on "Also use the page in your browser tab" in Settings, Dictation. macOS asks to let Tailwing control your browser, which Tailwing uses only to check that no private window is open before it reads. Safari can't tell Tailwing whether a private window is open, so Tailwing never reads Safari pages.</p>
+    <p><strong>Better speaker names on calls.</strong> When an invite lists the people on a call, it now limits how many voices Tailwing assigns to your microphone, so a short burst of speech is less likely to become an extra speaker. A name that sounds close to yours isn't offered as someone else, and a voice that thanks or greets someone is no longer taken to be that person.</p>
+    <p><strong>Also new.</strong> Check for Updates is in the menu-bar menu. Speech runs on the Neural Engine by itself for English meetings on Macs that have one. Clearer wording across Settings and setup.</p>
+    <p><strong>Fixed.</strong> Dictation keeps going if your input device changes while you hold the key. Dictation no longer pastes into a field that can't be described while a password field is in use elsewhere. Dictation never waits more than a second for names from the screen.</p>
+    <p><strong>Known issues.</strong> Page reading in Arc, Edge and Brave has had only light testing. Translations of the newest wording are awaiting review by native readers. Features that use your own voice are not part of this beta.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sun, 15 Nov 2026 23:56:22 +0000</pubDate>
+      <sparkle:version>202611152350</sparkle:version>
+      <sparkle:shortVersionString>1.1.0-beta.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/e8eed2f4d7eba2ca4274688302e15b53/Tailwing-1.1.0-beta.2.dmg" type="application/octet-stream" sparkle:edSignature="OF7TYlsbwCNV0BNGUABktcQ60MkcDBjafomoCNHwRk1MzOGmOBGuBpPZB8qoYrM5Con9B+vR0s5HbOJQw+4aCQ==" length="63009504"/>
+    </item>
+    <item>
       <title>Tailwing 1.1.0-beta.1</title>
       <description><![CDATA[<h2>Tailwing 1.1 Beta 1</h2>
     <p><strong>A new start.</strong> Setup walks through the six things Tailwing does, one at a time: meeting notes, asking your meetings, dictation, privacy, your tools and languages. Each step asks for its permission where it's needed.</p>
@@ -60,21 +80,6 @@
       <sparkle:shortVersionString>1.0.0-rc.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/a8af88a5daaab83c456f1383d83bfef9/Tailwing-1.0.0-rc.7.dmg" type="application/octet-stream" sparkle:edSignature="xJPaW98VogTH+rhpJ1jXVpsp8FomjjjX5BzKP6fhiPuW2fywR1+scBufLdxxPyz8OUNg9mwNU4B2vv7coK/vCg==" length="56139632"/>
-    </item>
-    <item>
-      <title>Tailwing 1.0.0-rc.6</title>
-      <description><![CDATA[<h2>Tailwing 1.0.0 RC 6</h2>
-    <p>iCloud sync to Tailwing for iPhone works. A Mac that turned sync on in RC 5 sent nothing; it now sends the key, then meetings and notes, then audio a few parts at a time, so your meetings arrive first.</p>
-    <p>A meeting on an account that's in macOS Calendar and also signed in to Tailwing directly shows once. Copies from two different accounts are never joined.</p>
-    <p>Live coaching now all sits in the island by the camera. The island, the meeting banner, the dictation pill and the coaching cue say what they are when they appear, then shrink, and each can be dragged anywhere. Double-click an edge or choose Put Back to return one.</p>
-    <p>Dictation: the pill has a Copy button, a dictation that couldn't be typed stays on screen with its text, and Paste Last Dictation (Control-Command-V) types the last one again. In Mail, Outlook, and Gmail or Outlook on the web, dictated text is laid out as an email. Transcripts keep the spaces before numbers and rare words, and your own names are spelled right.</p>
-    <p>Audio is no longer kept by default: a new meeting's audio is deleted once its transcript and write-up are made. Audio from earlier meetings stays. Choose how long to keep audio in Settings, Privacy.</p>
-    <p>People are linked to an email address. Names without one stay as speaker labels in their meeting, and a voice that introduces itself is named.</p>]]></description>
-      <pubDate>Thu, 12 Nov 2026 04:07:50 +0000</pubDate>
-      <sparkle:version>202611120355</sparkle:version>
-      <sparkle:shortVersionString>1.0.0-rc.6</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/3af052a2653906f20020b8ac18967431/Tailwing-1.0.0-rc.6.dmg" type="application/octet-stream" sparkle:edSignature="3UJYDJ+njYKrbfBFKvZIYhuviih4cZb7hFlt7FDrwxeKdIYLd8ynztxE+xlwz2JNVrkUxKiONaF/uJsfjR+cDQ==" length="50944068"/>
     </item>
   </channel>
 </rss>
