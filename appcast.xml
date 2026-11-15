@@ -5,6 +5,22 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.1.0-beta.1</title>
+      <description><![CDATA[<h2>Tailwing 1.1 Beta 1</h2>
+    <p><strong>A new start.</strong> Setup walks through the six things Tailwing does, one at a time: meeting notes, asking your meetings, dictation, privacy, your tools and languages. Each step asks for its permission where it's needed.</p>
+    <p><strong>Encrypted on your Mac, audio included.</strong> Notes and transcripts were already encrypted on this Mac. Meeting audio is now encrypted as soon as the meeting is written up. A recovery code lets you open your notes on a new Mac after Migration Assistant or a restore from a backup; it's in Settings, Privacy, Your data.</p>
+    <p><strong>AI tools are back.</strong> Claude and other AI tools read your meetings through the Tailwing app again, and only while you allow it: turn them on in Settings, Connections, AI tools.</p>
+    <p><strong>Calls end better.</strong> When a call goes quiet, Tailwing asks before it stops. If a browser call it stopped picks up again, it asks whether to continue the last meeting.</p>
+    <p><strong>Anonymize.</strong> The Pro feature that replaces names and personal details before anything leaves your Mac is now called Anonymize.</p>
+    <p><strong>Coming next:</strong> more accurate dictation that spells the names on your screen, and sharper notes. Tell us what to fix first with Send Feedback in the Tailwing menu.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sun, 15 Nov 2026 02:08:51 +0000</pubDate>
+      <sparkle:version>202611150202</sparkle:version>
+      <sparkle:shortVersionString>1.1.0-beta.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/ba686f3f34b856b33beb69390129cd1c/Tailwing-1.1.0-beta.1.dmg" type="application/octet-stream" sparkle:edSignature="XjjaPRpl39e5yqUWL8dtJYlODkfMMPoSvx97S2eSeodAfcJTL9OPsE659gKkd03USAWsweyuLAOYPw1glpdkCg==" length="62054950"/>
+    </item>
+    <item>
       <title>Tailwing 1.0.0-rc.8.2</title>
       <description><![CDATA[<h2>Tailwing 1.0.0 RC 8.2</h2>
     <p>Notes now stop by themselves when a browser call ends. After a Meet in Chrome, Tailwing could go on taking notes until you stopped it: Chrome kept hold of the microphone, and a normal room is rarely quiet enough for Tailwing to decide the call was over.</p>
@@ -59,18 +75,6 @@
       <sparkle:shortVersionString>1.0.0-rc.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/3af052a2653906f20020b8ac18967431/Tailwing-1.0.0-rc.6.dmg" type="application/octet-stream" sparkle:edSignature="3UJYDJ+njYKrbfBFKvZIYhuviih4cZb7hFlt7FDrwxeKdIYLd8ynztxE+xlwz2JNVrkUxKiONaF/uJsfjR+cDQ==" length="50944068"/>
-    </item>
-    <item>
-      <title>Tailwing 1.0.0-rc.5</title>
-      <description><![CDATA[<h2>Tailwing 1.0.0 RC 5</h2>
-    <p>iCloud sync, for Tailwing for iPhone. Turn it on in Settings, Privacy. Meetings, notes, write-ups, transcripts and people sync through your own iCloud, encrypted. Audio syncs only if you choose. A private meeting never leaves this Mac.</p>
-    <p>Dictation is more reliable. It starts even while Tailwing is writing up or transcribing, a held key never stops mid-sentence, and every new sentence gets its space after the full stop, including where your text lands.</p>
-    <p>Long meetings now write up. They're written in parts, with progress shown, and a model that says a request is too long is asked again in smaller parts. Live coaching waits until notes are running. Its island sits flush against the top of the screen, says what it is, stays above other windows and keeps its text inside its frame. Right-click a folder or a person in the sidebar to rename them.</p>]]></description>
-      <pubDate>Wed, 11 Nov 2026 21:20:07 +0000</pubDate>
-      <sparkle:version>202611112113</sparkle:version>
-      <sparkle:shortVersionString>1.0.0-rc.5</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/7649f504461b40cd976868e2af8d218d/Tailwing-1.0.0-rc.5.dmg" type="application/octet-stream" sparkle:edSignature="Q317TR1r7G9wBoFE6msRINzuUL35iV2nA6ryZX+QKBE6K43i50o1QOAxO3bBmiXMCJQqTZmMLDRsUwenpo5LAg==" length="48914957"/>
     </item>
   </channel>
 </rss>
