@@ -5,6 +5,33 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.1.0-beta.3</title>
+      <description><![CDATA[<h2>Tailwing 1.1 Beta 3</h2>
+    <p><strong>A guided setup.</strong> Setup now introduces each feature, asks for the permissions it needs at that step, and shows what is downloading at the bottom of every screen. You can try dictation before you finish, and open a sample meeting to see what a write-up looks like. Everyone sees it once after updating; what you already allowed and downloaded shows as Ready, and your settings stay as they are.</p>
+    <p><strong>A consent reminder before notes.</strong> Before Tailwing takes notes on a call, it asks you to confirm that you are responsible for getting consent from everyone you take notes with. Tailwing sends that confirmation to us once, with the date, the app version and an ID for your Mac, so it is on file. Dictation doesn't need it.</p>
+    <p><strong>Ask shows what it will assume.</strong> As you type a question, Tailwing underlines the meeting, the dates and the people it will look at. Click one to change it before you send. Where it can't tell which meeting or person you mean, it asks instead of guessing, and each answer starts with what it was based on.</p>
+    <p><strong>Decisions in one place.</strong> View, Decisions lists every decision across your meetings, newest first, with the reason given in the meeting and a link to the moment it was made.</p>
+    <p><strong>Projects.</strong> Tell Tailwing about your most important projects in setup, or add them on the new Projects page. Each project collects its decisions, open next steps and meetings in one place, and you can ask a question about that project alone. Setup can also list your recurring meetings so you can say which project each belongs to, and you can mark a meeting as a project's anchor. Sorting items into projects automatically is off for now; you can turn it on in Settings.</p>
+    <p><strong>How You Run Meetings.</strong> A new page beside Decisions shows your last four weeks against the four before: your share of talk time, the questions you asked, how often you started while someone was mid-sentence, your longest stretch and the cues you saw most. The suggestion under each meeting is now labeled Try Next Time. All of it stays on your Mac.</p>
+    <p><strong>Links to a moment.</strong> Copy a link to any transcript line, source line or flagged moment. Opening it shows that line in the transcript. Exports and AI tools carry the same links.</p>
+    <p><strong>Anonymize covers everything you save.</strong> With Anonymize on, names and personal details are now replaced in the notes you save, copy, share, drag out or send, including PDF and Markdown files and next steps sent to Reminders, Things and Todoist. If they can't be replaced, nothing is saved or sent.</p>
+    <p><strong>Share and drag.</strong> Share a note from the macOS Share menu, or drag it to Finder or Mail.</p>
+    <p><strong>Usage numbers, if you choose.</strong> Setup asks whether Tailwing may send counts about how it is working on your Mac, such as whether setup finished. It is off until you say yes, it never includes anything you say, write or dictate, and Settings, Privacy shows exactly what was sent. The same screen has an optional question about what you do for work. Your answer stays on your Mac unless you share usage numbers, and then it is sent as one of nine fixed choices.</p>
+    <p><strong>Rate a dictation.</strong> Each item in your dictation history has Good and Not good buttons, and Not good lets you say what went wrong. Ratings stay on your Mac. If you share usage numbers, each rating is also counted with the kind of app and the language, and never the words or the audio.</p>
+    <p><strong>Update checks are counted.</strong> When Tailwing checks for an update, our site counts the check with the app's version and build number, so we can see how many Macs are on each version. Nothing else is sent, and if that address doesn't answer, Tailwing checks the original one.</p>
+    <p><strong>More at home on the Mac.</strong> Complete menus with the standard keys, a Help menu, spell check in notes, Settings that follow Increase Contrast, and a quiet start at login. The interface is now translated in the places that were still in English.</p>
+    <p><strong>Better write-ups of long meetings.</strong> Write-ups no longer present something reported from a paper or a dashboard as a decision the group made, they stay a readable length, and decisions and next steps now come through when you typed your own notes during the meeting.</p>
+    <p><strong>Next steps say when nobody was named.</strong> When a meeting agrees a next step without saying who will do it, the write-up no longer guesses. The step shows "Who?" with the people in the meeting to choose from, and your choice stays if you regenerate the write-up.</p>
+    <p><strong>Fixed.</strong> Dictation now types into Tailwing's own text boxes, such as a project's description, a note or the Ask box. Exported files no longer get a doubled extension. Undo while typing undoes your typing. Deleting a folder, a template or your dictation history asks first. Dictated text placed before a word is followed by a space. Private mode's one-time model download now covers live captions. Closing setup early no longer marks it finished.</p>
+    <p><strong>Known issues.</strong> The selected row in Decisions and in the sidebar is hard to read on the blue highlight. After a call, your own voice can show as "Speaker 1" or your email address where your name should be. Ask reads what it will assume for questions in English only. Translations of the newest wording are awaiting review by native readers. The reason shown under a decision is often missing in long meetings.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Mon, 16 Nov 2026 18:26:40 +0000</pubDate>
+      <sparkle:version>202611161819</sparkle:version>
+      <sparkle:shortVersionString>1.1.0-beta.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/82d65ae59ade05e787411ee3515542e2/Tailwing-1.1.0-beta.3.dmg" type="application/octet-stream" sparkle:edSignature="Bb1nqD5OfPJfrwANFmcO1QMFZmXq2LVW8ZiQDp1UmQuuPUxQlCvrtftxd4LVpYmCQEbyjkzzENfnP79zXnSyAQ==" length="66691237"/>
+    </item>
+    <item>
       <title>Tailwing 1.1.0-beta.2</title>
       <description><![CDATA[<h2>Tailwing 1.1 Beta 2</h2>
     <p><strong>Setup that finishes by itself.</strong> Tailwing now downloads every model it needs on its own, shows how far along each one is, and tries again if a download stops. Dictation works as soon as its speech model is in, with no need to reopen the app. Settings, Models and Settings, Permissions use the same rows and the same words, and each opens with one line that says whether everything is ready.</p>
@@ -65,21 +92,6 @@
       <sparkle:shortVersionString>1.0.0-rc.8.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/0dfc0d061eecc7aaba86c6e0ce18e9a8/Tailwing-1.0.0-rc.8.1.dmg" type="application/octet-stream" sparkle:edSignature="OBky89jn9BkLCWYhl6dovZMh3dZtfKQsyL4bIk72uZlhGKETZCSz0bGWJU7beYAKE27uoEQCFO0fFCq++L/eDw==" length="60643028"/>
-    </item>
-    <item>
-      <title>Tailwing 1.0.0-rc.7</title>
-      <description><![CDATA[<h2>Tailwing 1.0.0 RC 7</h2>
-    <p>The app now comes in 24 languages. Choose one in Settings, General, Language; it sets the app's words and the language Tailwing expects to hear and writes notes in. The app asks you to restart for it to take effect. Separately, transcription covers all 25 languages Tailwing's speech model supports, Finnish included, so a meeting in Russian is still transcribed even though the app itself isn't in Russian.</p>
-    <p>Live translated subtitles. When a meeting is in a language other than yours, Tailwing asks once whether to translate it, with Always translate for that language. Subtitles appear at the bottom of the meeting window, and translation runs on this Mac.</p>
-    <p>You can also hear the translation spoken aloud in your own language, beside the subtitles. It's off by default; turn it on in Settings, Translation, with its own volume and speed. It needs a macOS voice for your language, and macOS has none yet for Estonian, Latvian or Maltese, so those stay subtitles only. Settings says where to download a better voice.</p>
-    <p>Private mode has its own group in Settings, Privacy, with three switches: Private mode, Hide everyone's names (the people in the meeting too, not only outsiders) and Private by default. Each says what it changes and what it costs: a meeting waits if names can't be removed. The meeting list now shows which meetings are private. Names are removed before text leaves this Mac, for every kind of send, including task notes and owners.</p>
-    <p>Write-ups use names rather than email addresses, check each owner against the people in the meeting, say a repeated point once and leave out filler and empty sections.</p>
-    <p>Settings tabs open without the pause, and there's a gear at the right end of the main window's toolbar, in every look. The Classic look follows the proportions of a 1990s desktop more closely.</p>]]></description>
-      <pubDate>Fri, 13 Nov 2026 08:25:14 +0000</pubDate>
-      <sparkle:version>202611130819</sparkle:version>
-      <sparkle:shortVersionString>1.0.0-rc.7</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/a8af88a5daaab83c456f1383d83bfef9/Tailwing-1.0.0-rc.7.dmg" type="application/octet-stream" sparkle:edSignature="xJPaW98VogTH+rhpJ1jXVpsp8FomjjjX5BzKP6fhiPuW2fywR1+scBufLdxxPyz8OUNg9mwNU4B2vv7coK/vCg==" length="56139632"/>
     </item>
   </channel>
 </rss>
