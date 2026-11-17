@@ -5,6 +5,33 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.1.0-beta.4</title>
+      <description><![CDATA[<h2>Tailwing 1.1 Beta 4</h2>
+    <p><strong>Next Steps.</strong> A new page lists every open next step from all your meetings, yours first, with a checkbox on each. Ticking one here ticks it in the meeting and on its project page too. Press N to add a to-do of your own, and Command-Z undoes anything.</p>
+    <p><strong>Decisions, as a page.</strong> Decisions now fill the page, with the reason, the meeting, who was there and the project. Filter by project, person, series or date, and open a decision in place to see the moment it was made.</p>
+    <p><strong>Sources open where you are.</strong> The small numbers beside write-up lines are now a quiet mark. Click it to see who said it and when, under the line, with a link to the full transcript if you want it.</p>
+    <p><strong>Dictation that keeps up.</strong> Pressing the dictation key while an earlier dictation is still being written starts listening at once, and the words arrive in order. A brief slip of the key, or another modifier key pressed while you hold it, no longer ends a dictation mid-sentence. A tap too short to hold speech is ignored quietly, and work on a finished call waits while you dictate.</p>
+    <p><strong>Quieter on calls.</strong> Tailwing takes notes from the microphone your Mac has chosen, never one picked because another app was using it, and it no longer runs its own voice processing while a call app has the microphone. When devices change mid-call it switches once.</p>
+    <p><strong>Calls end cleanly.</strong> A short call now stops by itself: Tailwing waits 20 seconds to be sure the call app has gone, then counts down. Notes are written as soon as a call stops, and a second call that starts straight after offers Continue or Start a New Meeting.</p>
+    <p><strong>Your name, and theirs.</strong> You appear by your name in transcripts, decisions and next steps. A voice that couldn't be named reads as "someone" and never owns a step. Coming Up and This Week show people's names.</p>
+    <p><strong>Projects that learn.</strong> With automatic sorting on, Tailwing learns which people and organizations belong to which project, and offers to give a recurring meeting a default project. Sorting is still off unless you turn it on in Settings, Meetings.</p>
+    <p><strong>A note for the meeting chat.</strong> While Tailwing takes notes, Copy Note for the Chat puts a line on your clipboard that tells everyone, for you to paste. You can change the wording in Settings, Privacy.</p>
+    <p><strong>Invite people.</strong> Invite Someone has your link, ready text for Messages, Mail and Slack, and a count of who joined. Bring in ten people and you become a founding member, with early access to betas.</p>
+    <p><strong>Anonymize says what it did.</strong> A copied transcript now keeps each voice as its own speaker when it is anonymized, and Copy and Save tell you when names were removed. After an anonymized copy you can choose Copy Without Anonymizing for your own clipboard, unless the meeting is private.</p>
+    <p><strong>Privacy in one panel.</strong> Settings, Privacy is now one list under Private mode, and each row is named for what its switch does. Settings no longer shift as you flip a switch.</p>
+    <p><strong>Flight, redrawn.</strong> The Flight look has a new design: white cards on a warm off-white page, larger page titles, rounded pill buttons and a blue accent. Choose it in Settings, General. The other looks are unchanged.</p>
+    <p><strong>Faster.</strong> Search no longer holds up typing, and the menu-bar menu opens at once.</p>
+    <p><strong>Changed.</strong> Hearing translations spoken aloud is now part of Pro. If you already had it switched on, you keep it. Translated subtitles stay free.</p>
+    <p><strong>Fixed.</strong> Settings and other windows open in front, including over a pinned window. The selected row in lists is readable in every look. Imports show what happened beside the button. The note that Tailwing is still running points at its menu-bar icon. The diagnostics log no longer includes microphone names.</p>
+    <p><strong>Known issues.</strong> On a call played through speakers with no headset, some of what the other side says can be credited to you. If your own voice is split into several voices, your lines can read as "someone". "Someone" replaces an unnamed speaker in English write-ups only. With Anonymize on, some words that are not personal, such as product names, can still be replaced. Your own to-dos stay on this Mac and don't sync yet.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 17 Nov 2026 05:00:27 +0000</pubDate>
+      <sparkle:version>202611170453</sparkle:version>
+      <sparkle:shortVersionString>1.1.0-beta.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/a252d461ff00546f992b55325b813dde/Tailwing-1.1.0-beta.4.dmg" type="application/octet-stream" sparkle:edSignature="4pZuHhV+kjM03R5eTsahsZ0bijmKT0M27jf+GVM3dY0NhMgXeF4AGJMVNM6i1x2LNqbN+JalJbEr7+DAUx4QAQ==" length="67899816"/>
+    </item>
+    <item>
       <title>Tailwing 1.1.0-beta.3</title>
       <description><![CDATA[<h2>Tailwing 1.1 Beta 3</h2>
     <p><strong>A guided setup.</strong> Setup now introduces each feature, asks for the permissions it needs at that step, and shows what is downloading at the bottom of every screen. You can try dictation before you finish, and open a sample meeting to see what a write-up looks like. Everyone sees it once after updating; what you already allowed and downloaded shows as Ready, and your settings stay as they are.</p>
@@ -78,20 +105,6 @@
       <sparkle:shortVersionString>1.0.0-rc.8.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/e913de999b88b9b4984b631be092aefe/Tailwing-1.0.0-rc.8.2.dmg" type="application/octet-stream" sparkle:edSignature="F9lkEE0PM93x4MNKi/xfX2WcYNB+M0m60IAwIq7OhYhQTxNLDmai8ILz/5UQ71Huif+hmTTUQ7OS4Q47DhGGDA==" length="60650401"/>
-    </item>
-    <item>
-      <title>Tailwing 1.0.0-rc.8.1</title>
-      <description><![CDATA[<h2>Tailwing 1.0.0 RC 8.1</h2>
-    <p>This release fixes rc.8, which some of you installed for a short time on 13 November.</p>
-    <p>rc.8 couldn't open an existing library after the update, so your meetings didn't appear and features that read them, such as import and dictation, stopped working. Nothing was lost: rc.8 stopped before changing anything. This version opens your library, encrypts your notes and transcripts on this Mac as rc.8 intended, and keeps every meeting.</p>
-    <p>rc.8 could also delete a writing model you had already downloaded and fetch it again. This version checks the file and keeps it when it matches.</p>
-    <p>Everything else in rc.8 is here: Private mode, encrypted notes and transcripts, the enforced list of what can leave this Mac, and the rest. The welcome screen loses its dot pattern.</p>
-    <p>One thing is paused in this version: the connector that lets Claude and other AI tools read your meetings. Now that the library is encrypted, the connector can't yet reach its key, so those tools will say they couldn't read the Tailwing library. Your meetings are unaffected. The connector comes back in the next release, reading through Tailwing itself.</p>]]></description>
-      <pubDate>Sat, 14 Nov 2026 01:11:09 +0000</pubDate>
-      <sparkle:version>202611140105</sparkle:version>
-      <sparkle:shortVersionString>1.0.0-rc.8.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/0dfc0d061eecc7aaba86c6e0ce18e9a8/Tailwing-1.0.0-rc.8.1.dmg" type="application/octet-stream" sparkle:edSignature="OBky89jn9BkLCWYhl6dovZMh3dZtfKQsyL4bIk72uZlhGKETZCSz0bGWJU7beYAKE27uoEQCFO0fFCq++L/eDw==" length="60643028"/>
     </item>
   </channel>
 </rss>
