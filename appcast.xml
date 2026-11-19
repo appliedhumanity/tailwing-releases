@@ -5,6 +5,34 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.1.0-beta.6</title>
+      <description><![CDATA[<h2>Tailwing 1.1 Beta 6</h2>
+    <p><strong>One size of text.</strong> Rows, the sidebar, buttons and the toolbar now share one size, and only page titles are larger. Settings follows the same sizes. Pages sit on the plain background in one column, with sections separated by a thin rule, and selection is a neutral fill with heavier text.</p>
+    <p><strong>A meeting's note is one document.</strong> The note scrolls as a single, wider page. The transcript's lines sit on one grid. Next Steps no longer scrolls through its header.</p>
+    <p><strong>Names stay hidden wherever notes leave this Mac.</strong> Anonymize and Hide everyone's names now apply to every answer an AI tool gets through the connector, to the local API and Shortcuts, to the webhook and folder outputs, and to Share Notes, Copy and Save. If names can't be removed, nothing is handed over and Tailwing says why. Export Everything stays a complete copy unless Anonymize is on.</p>
+    <p><strong>More for your AI tools.</strong> A connected tool can ask for the context of a meeting or a person in one call. With your own Clay account connected, that context includes the role, organization and profile link of a person you have looked up. None of it is sent while names are hidden. The people list, a person's page and a meeting's brief through the connector are part of Pro.</p>
+    <p><strong>Across your meetings, with Pro.</strong> A recurring meeting has a page of its own: what changed since last time, what is still open, and each past meeting. Before a meeting, From last time lists what carried over. A weekly recap gathers the week's meetings, decisions, and open and overdue next steps; its headline is free every week. The first three uses of each are complete without Pro.</p>
+    <p><strong>Photos and logos.</strong> Tailwing can show people's photos and company logos beside their names, from Contacts, Gravatar and each company's website. Nothing is looked up until you press Got It, and never for a private meeting or in Private mode. The choices are in Settings, Privacy.</p>
+    <p><strong>Dictation on a mouse button.</strong> Hold a mouse button to dictate. Choose it in Settings, Shortcuts.</p>
+    <p><strong>Live translation is experimental.</strong> It can fall behind when this Mac is busy, so Tailwing no longer offers it during a call. You can turn it on in Settings. Translation after the meeting is unaffected.</p>
+    <p><strong>Fixes.</strong></p>
+    <ul>
+    <li>Share Notes and Send in Export sent names when only Hide everyone's names was on. They now hide them.</li>
+    <li>Your own second email address is no longer listed as an attendee.</li>
+    <li>Empty items such as "None" are no longer stored as decisions or next steps.</li>
+    <li>Decisions show people's names where they showed email addresses.</li>
+    <li>Placeholder text in every field is now easier to read in every look.</li>
+    <li>Tailwing could close unexpectedly after quitting while something was still reading your notes. It now closes cleanly.</li>
+    <li>A change made on one Mac no longer bounces back and forth between two Macs after a relaunch.</li>
+    </ul>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 19 Nov 2026 12:54:42 +0000</pubDate>
+      <sparkle:version>202611191246</sparkle:version>
+      <sparkle:shortVersionString>1.1.0-beta.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/8461b777b36d0875ef4321dd5de9edcf/Tailwing-1.1.0-beta.6.dmg" type="application/octet-stream" sparkle:edSignature="P23lfqDD3d+qtkEGeHB6I4fvq+KcKhfDJIiSA8OxEhoUFp6uBg8t1/UVhPi0hR7LYRH2qEhVUUXey+whKQWoBA==" length="75474161"/>
+    </item>
+    <item>
       <title>Tailwing 1.1.0-beta.5</title>
       <description><![CDATA[<h2>Tailwing 1.1 Beta 5</h2>
     <p><strong>One focused column.</strong> A meeting now opens as a single column with larger text, and the sidebar and toolbar step aside while you read. Press Escape to go back to Home. Settings, General, Show every place and button brings the full window back.</p>
@@ -114,22 +142,6 @@
       <sparkle:shortVersionString>1.1.0-beta.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/e8eed2f4d7eba2ca4274688302e15b53/Tailwing-1.1.0-beta.2.dmg" type="application/octet-stream" sparkle:edSignature="OF7TYlsbwCNV0BNGUABktcQ60MkcDBjafomoCNHwRk1MzOGmOBGuBpPZB8qoYrM5Con9B+vR0s5HbOJQw+4aCQ==" length="63009504"/>
-    </item>
-    <item>
-      <title>Tailwing 1.1.0-beta.1</title>
-      <description><![CDATA[<h2>Tailwing 1.1 Beta 1</h2>
-    <p><strong>A new start.</strong> Setup walks through the six things Tailwing does, one at a time: meeting notes, asking your meetings, dictation, privacy, your tools and languages. Each step asks for its permission where it's needed.</p>
-    <p><strong>Encrypted on your Mac, audio included.</strong> Notes and transcripts were already encrypted on this Mac. Meeting audio is now encrypted as soon as the meeting is written up. A recovery code lets you open your notes on a new Mac after Migration Assistant or a restore from a backup; it's in Settings, Privacy, Your data.</p>
-    <p><strong>AI tools are back.</strong> Claude and other AI tools read your meetings through the Tailwing app again, and only while you allow it: turn them on in Settings, Connections, AI tools.</p>
-    <p><strong>Calls end better.</strong> When a call goes quiet, Tailwing asks before it stops. If a browser call it stopped picks up again, it asks whether to continue the last meeting.</p>
-    <p><strong>Anonymize.</strong> The Pro feature that replaces names and personal details before anything leaves your Mac is now called Anonymize.</p>
-    <p><strong>Coming next:</strong> more accurate dictation that spells the names on your screen, and sharper notes. Tell us what to fix first with Send Feedback in the Tailwing menu.</p>]]></description>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sun, 15 Nov 2026 02:08:51 +0000</pubDate>
-      <sparkle:version>202611150202</sparkle:version>
-      <sparkle:shortVersionString>1.1.0-beta.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/ba686f3f34b856b33beb69390129cd1c/Tailwing-1.1.0-beta.1.dmg" type="application/octet-stream" sparkle:edSignature="XjjaPRpl39e5yqUWL8dtJYlODkfMMPoSvx97S2eSeodAfcJTL9OPsE659gKkd03USAWsweyuLAOYPw1glpdkCg==" length="62054950"/>
     </item>
     <item>
       <title>Tailwing 1.0.0-rc.8.2</title>
