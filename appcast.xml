@@ -5,6 +5,22 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.1.0-beta.8.2</title>
+      <description><![CDATA[<h2>Tailwing 1.1 Beta 8.2</h2>
+    <p><strong>Ask answers broad questions.</strong> Ask now answers questions like "what's going on in my meetings" from your most recent meetings, in a sentence or two for each.</p>
+    <p><strong>Ask follows the conversation.</strong> A follow-up such as "and when is that due?" is searched with the question before it. Ask also reads short forms ("abt", "wat"), finds a person from the start of their name, and answers "what do I owe" from your own next steps.</p>
+    <p><strong>A new Ask box.</strong> The Ask field grows as you type, up to six lines. Shift-Return starts a new line, Return sends, and the Send button sits in the box with the meetings it will read.</p>
+    <p><strong>Ask tells you when it is still getting ready.</strong> On a new install, or after a reset, Ask across all your meetings shows how far along the download or the indexing is and asks you to try again in a few minutes. If indexing is paused or has stopped moving, Ask answers from what is indexed and says it may leave some meetings out.</p>
+    <p><strong>The Screen Recording button adds Tailwing to the list.</strong> The Screen Recording button now adds Tailwing to the list in System Settings, so you can switch it on.</p>
+    <p><strong>Known limits.</strong> In long answers across several meetings, Ask can leave out a detail that is in the lines it read, such as a second name in a list. This is next on the list for 8.3.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sun, 22 Nov 2026 03:53:05 +0000</pubDate>
+      <sparkle:version>202611220343</sparkle:version>
+      <sparkle:shortVersionString>1.1.0-beta.8.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/e03cde3cd079444246d095e2845a3345/Tailwing-1.1.0-beta.8.2.dmg" type="application/octet-stream" sparkle:edSignature="JdOi7nogBIB6l0WUyUH99xZTWrm/hOjZS/gjhuH9R+MVWpKA4nj3cz8HvwBA0S6RqH54x0ZlaLG3EWbAco9tAg==" length="80875949"/>
+    </item>
+    <item>
       <title>Tailwing 1.1.0-beta.8.1</title>
       <description><![CDATA[<h2>Tailwing 1.1 Beta 8.1</h2>
     <p><strong>Ask says when something isn't in your meetings.</strong> When you ask about a person, a project or a thing that your meetings never mention, Ask now says it couldn't find it and shows the closest match, instead of answering from a line that sounds similar. Answers also arrive faster.</p>]]></description>
@@ -101,43 +117,6 @@
       <sparkle:shortVersionString>1.1.0-beta.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/8461b777b36d0875ef4321dd5de9edcf/Tailwing-1.1.0-beta.6.dmg" type="application/octet-stream" sparkle:edSignature="P23lfqDD3d+qtkEGeHB6I4fvq+KcKhfDJIiSA8OxEhoUFp6uBg8t1/UVhPi0hR7LYRH2qEhVUUXey+whKQWoBA==" length="75474161"/>
-    </item>
-    <item>
-      <title>Tailwing 1.1.0-beta.5</title>
-      <description><![CDATA[<h2>Tailwing 1.1 Beta 5</h2>
-    <p><strong>One focused column.</strong> A meeting now opens as a single column with larger text, and the sidebar and toolbar step aside while you read. Press Escape to go back to Home. Settings, General, Show every place and button brings the full window back.</p>
-    <p><strong>A simpler Home.</strong> Home is one page: your day first, then your notes grouped by date. Notes, People and Projects filter the list. The rest of the places are under More.</p>
-    <p><strong>Flight is the look for everyone.</strong> New installs start in Flight, and anyone on Instrument is moved to it once. You can switch back in Settings, General, Look. Flight has a new manner: a calm, focused layout, with Decisions and Next Steps in one card that shows each step's owner and day, a time beside each line Tailwing wrote that opens the transcript at that moment so you can see where it came from, a day card on Home, and new icons and type.</p>
-    <p><strong>Folio, a second look.</strong> Folio sets your notes on warm paper with serif titles and notes. It is free, and it is the second choice in Settings, General, Look.</p>
-    <p><strong>Your day.</strong> Coming Up and This Week can show a day as well as a list, with a block for each meeting and a line that sums it up, such as how many meetings there are and when you next have an hour free. Next Steps now starts with Today and Upcoming. Quick Add, a small field for a to-do, is off until you choose a key in Settings, Shortcuts.</p>
-    <p><strong>Share Notes.</strong> Share Notes in a meeting prepares a clean email of its notes, and Send Their Next Steps on a person's steps does the same for one person. You see exactly what will go and to whom, and you send it from your own mail app or copy it. Tailwing sends nothing itself. It is not offered for a private meeting.</p>
-    <p><strong>Export Everything.</strong> Settings, Privacy, Your data, and the File menu, write your whole library to a new folder on this Mac. It never writes into or changes anything that was already in the place you choose.</p>
-    <p><strong>AI tools that make changes.</strong> AI tools you have connected can suggest titles, speaker names, projects and folders, add their own notes and to-dos, flag moments, create a project, and ask Tailwing a question that comes back with links to the lines behind the answer. Each kind of change has its own switch in Settings, Connections, AI tools, and all of them are off until you turn on Let AI tools make changes. Suggestions wait under the meeting's title until you click Use, and Undo puts back what was there. For each tool you can also choose Apply without asking, which is off by default. A tool only changes or deletes items it added itself, and private meetings are never read or changed.</p>
-    <p><strong>Faster, more trustworthy Ask.</strong> Answers appear as they are written, and each figure, quote and name is checked against the line it cites. Anything a line doesn't support is withdrawn.</p>
-    <p><strong>Private meetings keep their owners.</strong> Notes for a private meeting are now written from what was said, before names are replaced, so next steps keep their owners and decisions keep their reasons. Only the replaced text is stored. A private meeting keeps no location.</p>
-    <p><strong>A check on earlier private meetings.</strong> On a Mac that has had Pro, this release checks the private meetings you already have. Where an earlier version stored one without replacing names, Tailwing replaces them now and tells you how many meetings it changed.</p>
-    <p><strong>Private meetings and sync.</strong> A private meeting's notes and audio stay on the Mac they were made on, and copies that earlier versions sent to iCloud are removed. If you sync between Macs, update all of them to this release: a Mac still on Beta 4 deletes its own copy of a private meeting's notes when another Mac removes them from iCloud.</p>
-    <p><strong>Look up a person.</strong> On a person's page, Look Up fetches their title and organization from your own Apollo or Clay account. It appears only after you connect one in Settings, Connections, and it is part of Pro. Apollo is sent a name, an email address and the company's web domain, and Clay is sent a name and the company's web domain. Lookups use your own account and its credits.</p>
-    <p><strong>Gift codes.</strong> Invite people from Settings, Invites, and you can earn up to three gift codes. Each code gives Pro on one Mac. To move a code to a new Mac, turn Pro off on the old one and enter the code on the new one in Settings, Pro, under Have a gift code?.</p>
-    <p><strong>Live translation, where it keeps up.</strong> Live translation is offered only where it has been measured to keep up: the first words show within four seconds of a sentence starting, and the whole sentence about two seconds after it ends. Today that is English speech into Spanish, French, German, Italian and Portuguese. Every other language gets Translation after the meeting, with your notes written in your language. Spoken translation stops when you start talking.</p>
-    <ul>
-    <li>A weekly count: once a week, one update check also carries a code that is different every week, so tailwing.co can count how many Macs use Tailwing. The code doesn't identify your Mac. It is on, and you can switch it off in Settings, Privacy, What leaves this Mac, Weekly count.</li>
-    </ul>
-    <p><strong>Settings and screen shares.</strong> When you share your screen, Tailwing hides Settings only on the panes that show people or text, so you can share the others.</p>
-    <p><strong>Quitting.</strong> Command-Q asks whether to keep Tailwing in the menu bar so it can take notes for your next meeting. While a meeting is in progress it asks before it stops taking notes. You can set the answer once in Settings, General.</p>
-    <p><strong>Fixes.</strong></p>
-    <ul>
-    <li>Dictation no longer quits the app when the microphone setup changes as it starts, such as when a dock or display is connected.</li>
-    <li>An AI tool sending an absurd number can no longer crash the app.</li>
-    <li>Side-panel text is no longer cut off at narrow widths.</li>
-    <li>The site and the app said Tailwing keeps each meeting's audio. Audio is deleted once the transcript and write-up are made, unless you choose to keep it in Settings, Privacy.</li>
-    </ul>]]></description>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Wed, 18 Nov 2026 12:17:40 +0000</pubDate>
-      <sparkle:version>202611181208</sparkle:version>
-      <sparkle:shortVersionString>1.1.0-beta.5</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/ead66d5b7bdcac683b79499ba6eefd36/Tailwing-1.1.0-beta.5.dmg" type="application/octet-stream" sparkle:edSignature="F/a76U4Xn+40ccMlIZCgtH0YgpTc7kdVb47gC44NUtXi+9SqcgXwZomZ754170Gsy0nNznnrxoqvEo+LTw5gDg==" length="72922046"/>
     </item>
     <item>
       <title>Tailwing 1.0.0-rc.8.2</title>
