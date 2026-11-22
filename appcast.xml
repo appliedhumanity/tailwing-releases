@@ -5,6 +5,20 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.1.0-beta.8.3</title>
+      <description><![CDATA[<h2>Tailwing 1.1 Beta 8.3</h2>
+    <p><strong>Suggested questions.</strong> When the Ask box is empty, a few questions sit under it to start from: "Catch me up", "What do I owe people?" and "What changed this week?" across your meetings, or "Summarize this meeting", "What did I agree to?" and "What's still open?" on a meeting. Click one to ask it. They go away as soon as you type.</p>
+    <p><strong>Ask lists every item.</strong> When you ask who was there, which ones, or what the risks are, Ask now lists each one the meetings give, each with its source, instead of stopping at the first.</p>
+    <p><strong>Ask knows more ways of saying things.</strong> Ask also searches for common alternatives to your words, such as price for pricing, or deadline for due.</p>
+    <p><strong>Ask finds what a person said about a topic.</strong> A question about what someone said on a subject now reads the lines near that subject first, including lines where others mention them.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sun, 22 Nov 2026 07:52:39 +0000</pubDate>
+      <sparkle:version>202611220743</sparkle:version>
+      <sparkle:shortVersionString>1.1.0-beta.8.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/a61ed95dac34f84cbfb776a3d9a29637/Tailwing-1.1.0-beta.8.3.dmg" type="application/octet-stream" sparkle:edSignature="d1m/mFRFnVuV1PuIJGPOQ0TixTsNbVIz4XswTHEKIY5MPzYv+6jKAlW9m7xZedbfuCWI6bpsB19KEjgwoKqNBg==" length="80940650"/>
+    </item>
+    <item>
       <title>Tailwing 1.1.0-beta.8.2</title>
       <description><![CDATA[<h2>Tailwing 1.1 Beta 8.2</h2>
     <p><strong>Ask answers broad questions.</strong> Ask now answers questions like "what's going on in my meetings" from your most recent meetings, in a sentence or two for each.</p>
@@ -89,34 +103,6 @@
       <sparkle:shortVersionString>1.1.0-beta.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/a905cdec1e1893d07f01bcf460c2740c/Tailwing-1.1.0-beta.7.dmg" type="application/octet-stream" sparkle:edSignature="pGoIJk3wQ8shwj4tmDJ2zmHPOCCmG9qlkCuKw3DVsbPE37ACWiX4ksDBJcdLKtE9F24AI1BYimPxKfowYbfGCQ==" length="77190240"/>
-    </item>
-    <item>
-      <title>Tailwing 1.1.0-beta.6</title>
-      <description><![CDATA[<h2>Tailwing 1.1 Beta 6</h2>
-    <p><strong>One size of text.</strong> Rows, the sidebar, buttons and the toolbar now share one size, and only page titles are larger. Settings follows the same sizes. Pages sit on the plain background in one column, with sections separated by a thin rule, and selection is a neutral fill with heavier text.</p>
-    <p><strong>A meeting's note is one document.</strong> The note scrolls as a single, wider page. The transcript's lines sit on one grid. Next Steps no longer scrolls through its header.</p>
-    <p><strong>Names stay hidden wherever notes leave this Mac.</strong> Anonymize and Hide everyone's names now apply to every answer an AI tool gets through the connector, to the local API and Shortcuts, to the webhook and folder outputs, and to Share Notes, Copy and Save. If names can't be removed, nothing is handed over and Tailwing says why. Export Everything stays a complete copy unless Anonymize is on.</p>
-    <p><strong>More for your AI tools.</strong> A connected tool can ask for the context of a meeting or a person in one call. With your own Clay account connected, that context includes the role, organization and profile link of a person you have looked up. None of it is sent while names are hidden. The people list, a person's page and a meeting's brief through the connector are part of Pro.</p>
-    <p><strong>Across your meetings, with Pro.</strong> A recurring meeting has a page of its own: what changed since last time, what is still open, and each past meeting. Before a meeting, From last time lists what carried over. A weekly recap gathers the week's meetings, decisions, and open and overdue next steps; its headline is free every week. The first three uses of each are complete without Pro.</p>
-    <p><strong>Photos and logos.</strong> Tailwing can show people's photos and company logos beside their names, from Contacts, Gravatar and each company's website. Nothing is looked up until you press Got It, and never for a private meeting or in Private mode. The choices are in Settings, Privacy.</p>
-    <p><strong>Dictation on a mouse button.</strong> Hold a mouse button to dictate. Choose it in Settings, Shortcuts.</p>
-    <p><strong>Live translation is experimental.</strong> It can fall behind when this Mac is busy, so Tailwing no longer offers it during a call. You can turn it on in Settings. Translation after the meeting is unaffected.</p>
-    <p><strong>Fixes.</strong></p>
-    <ul>
-    <li>Share Notes and Send in Export sent names when only Hide everyone's names was on. They now hide them.</li>
-    <li>Your own second email address is no longer listed as an attendee.</li>
-    <li>Empty items such as "None" are no longer stored as decisions or next steps.</li>
-    <li>Decisions show people's names where they showed email addresses.</li>
-    <li>Placeholder text in every field is now easier to read in every look.</li>
-    <li>Tailwing could close unexpectedly after quitting while something was still reading your notes. It now closes cleanly.</li>
-    <li>A change made on one Mac no longer bounces back and forth between two Macs after a relaunch.</li>
-    </ul>]]></description>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Thu, 19 Nov 2026 12:54:42 +0000</pubDate>
-      <sparkle:version>202611191246</sparkle:version>
-      <sparkle:shortVersionString>1.1.0-beta.6</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/8461b777b36d0875ef4321dd5de9edcf/Tailwing-1.1.0-beta.6.dmg" type="application/octet-stream" sparkle:edSignature="P23lfqDD3d+qtkEGeHB6I4fvq+KcKhfDJIiSA8OxEhoUFp6uBg8t1/UVhPi0hR7LYRH2qEhVUUXey+whKQWoBA==" length="75474161"/>
     </item>
     <item>
       <title>Tailwing 1.0.0-rc.8.2</title>
