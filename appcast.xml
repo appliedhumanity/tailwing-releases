@@ -5,6 +5,28 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.1.0-beta.8.4</title>
+      <description><![CDATA[<h2>Tailwing 1.1 Beta 8.4</h2>
+    <p><strong>Ask is one conversation.</strong> Questions and answers now flow in one chat until you start a new one, and your recent chats are listed so you can go back to them. Sources show as small numbers in the answer, with the full list tucked under it. A suggested question now goes into the box so you can change it before you ask.</p>
+    <p><strong>Notes appear as they are written.</strong> After a meeting, each section of the notes shows up as soon as it is ready, with Transcribing and then Processing shown while you wait.</p>
+    <p><strong>Settings has more tabs.</strong> Translation, People, Ask, and Camera &amp; Screen each have their own tab, so things are easier to find.</p>
+    <p><strong>Taking notes stays in view.</strong> While Tailwing is taking notes, a bar on every other page shows it, with Back to Notes to return. If notes stop without you pressing Stop, Tailwing says why and offers Resume.</p>
+    <p><strong>Names in one-on-one meetings.</strong> In a one-on-one, the live transcript and the notes name the other person, and people who declined the invitation are left out. A meeting linked to a calendar event keeps the event's title.</p>
+    <p><strong>AirPods and Bluetooth headsets.</strong> Tailwing no longer switches your headset into its lower-quality call mode. It uses the microphone your call is using, or your Mac's built-in microphone.</p>
+    <p><strong>Live translation hears the call's language.</strong> Tailwing now picks up the language people are speaking during the call and starts live translation for it.</p>
+    <p><strong>Cleaner next steps.</strong> Notes now drop duplicate and fragment next steps, and in a one-on-one each step goes to the person who took it on.</p>
+    <p><strong>Camera and Screen Recording setup.</strong> New step-by-step guides in Settings, Camera &amp; Screen walk you through allowing Tailwing in macOS and choosing it in your meeting app, and show Ready when everything is set.</p>
+    <p><strong>Set up before your first meeting.</strong> The welcome screen now suggests finishing setup before your first call, and shows how the download is going.</p>
+    <p><strong>Clearer downloads.</strong> One time estimate shows everywhere a download is mentioned, and anything waiting on a download says so.</p>
+    <p><strong>Fixes.</strong> "How are my meetings going?" now gets a catch-up. Amounts like $55k export correctly.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 24 Nov 2026 04:03:03 +0000</pubDate>
+      <sparkle:version>202611240353</sparkle:version>
+      <sparkle:shortVersionString>1.1.0-beta.8.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/4e245b9f6190da64250453e3912ecb08/Tailwing-1.1.0-beta.8.4.dmg" type="application/octet-stream" sparkle:edSignature="6BAE60IdTiPicyx5XQpDD+CSOGs/43lWNPXPTf0pHvRSIV3r7Lhbxe4CX2Hmo7BqVMn+VzTxg0AC7U/UZHjFDA==" length="81791127"/>
+    </item>
+    <item>
       <title>Tailwing 1.1.0-beta.8.3</title>
       <description><![CDATA[<h2>Tailwing 1.1 Beta 8.3</h2>
     <p><strong>Suggested questions.</strong> When the Ask box is empty, a few questions sit under it to start from: "Catch me up", "What do I owe people?" and "What changed this week?" across your meetings, or "Summarize this meeting", "What did I agree to?" and "What's still open?" on a meeting. Click one to ask it. They go away as soon as you type.</p>
@@ -74,35 +96,6 @@
       <sparkle:shortVersionString>1.1.0-beta.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/4bc13a3884d3735033ce4bb12ef72960/Tailwing-1.1.0-beta.8.dmg" type="application/octet-stream" sparkle:edSignature="XNoPI6yetJQKVCzfR3BtrfX3no1N36cpx5NbGDQkXmNZuS06UaLMgvmNKlSOV6S85qwAI46C1Il/v90r7r0rDg==" length="80653966"/>
-    </item>
-    <item>
-      <title>Tailwing 1.1.0-beta.7</title>
-      <description><![CDATA[<h2>Tailwing 1.1 Beta 7</h2>
-    <p><strong>Video mode.</strong> Tailwing can take notes on a video by capturing only the Mac's sound. Your microphone is never opened, and there is no coaching or cue. Switch a take to or from video from the pill's menu. On first run, Try it on a video writes your first note from any video you play.</p>
-    <p><strong>Dictation keeps your first words.</strong> The microphone is ready before you press, so the start of a sentence is no longer lost, and the text lands at the keystroke without a pause.</p>
-    <p><strong>A call that goes wrong still leaves notes.</strong> If Tailwing closes unexpectedly or the power fails, the meeting is recovered from its audio, with a line saying where notes stopped. If the Mac sleeps mid-call, Tailwing offers the meeting back on wake and says it paused. When space runs low, the pill says how many minutes of notes still fit. If a second call starts while notes are running, Tailwing asks before switching and captures nothing from the new call until you press. When a long meeting's write-up leaves out a stretch, the note says which one, and Try Again writes up just that part.</p>
-    <p><strong>Speaker names need evidence.</strong> A name is written only when the meeting supports it, such as someone saying their own name or being called by it. Otherwise Tailwing suggests, and you choose. Each name says why it was given, and the people invited are offered first. Names are never matched by voice.</p>
-    <p><strong>Live translation covers many more languages.</strong> Subtitles are offered between the 13 languages Apple's Translation installs, up to three lines at a time on a bar that stays readable over any video. A sentence is never silently skipped. One that arrives late is marked "Not translated yet" and filled in when it does, and the bar says when it is catching up. Spoken translation stays on the pairs measured to keep up. Live translation is still experimental.</p>
-    <p><strong>People and organizations by when you last met.</strong> Filter either list by Last Met, from the last month to not met in six months. An organization's page shows its last contact and next meeting.</p>
-    <p><strong>Calendar events from your Mac's Calendar.</strong> Events from Exchange and iCloud calendars now count in carry-over and the weekly recap. Copy and Export include only events the calendar still holds.</p>
-    <p><strong>Today as one agenda.</strong> Times sit in a gutter, past notes show their day, and rows share one form. Decisions has one Filter menu with removable tokens. Plain Notes moved inside All Notes, and AI Tools has its own tab in Settings.</p>
-    <p><strong>Ask cites by time.</strong> Each answer links the moments it draws on as times that open the transcript at that line, and speaks to you as "you".</p>
-    <p><strong>Private by default.</strong> Onboarding now says nothing is uploaded unless you turn it on. The Neural Engine is on by default on any supported Mac when Accurate is chosen, for the languages it hears.</p>
-    <p><strong>Better notes.</strong> Notes now open with what the meeting decided, and keep the principle that guided the calls. Decisions show the choice the meeting ended on, not one it moved past or only thought aloud about. Instructions appear as next steps, with the person who took them on. Things already done, or that happen only if something else does, stay out of your next steps. Attendee lists drop greetings and duplicate names, words from your dictionary are spelled the way you spell them, and in your own notes you appear as "you", while anything you share still uses your name.</p>
-    <p><strong>Fixes.</strong></p>
-    <ul>
-    <li>Notes are ended with Stop everywhere, where some places said Finish.</li>
-    <li>Share opens under the Share button. Invites are one row: Share, Copy Message, Copy Link.</li>
-    <li>A decision or next step can be moved to another project again from the project page.</li>
-    <li>Subtitles stay readable over a white video.</li>
-    <li>When renaming a speaker leaves next steps without an owner, the note says so.</li>
-    </ul>]]></description>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Fri, 20 Nov 2026 07:56:30 +0000</pubDate>
-      <sparkle:version>202611200747</sparkle:version>
-      <sparkle:shortVersionString>1.1.0-beta.7</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/a905cdec1e1893d07f01bcf460c2740c/Tailwing-1.1.0-beta.7.dmg" type="application/octet-stream" sparkle:edSignature="pGoIJk3wQ8shwj4tmDJ2zmHPOCCmG9qlkCuKw3DVsbPE37ACWiX4ksDBJcdLKtE9F24AI1BYimPxKfowYbfGCQ==" length="77190240"/>
     </item>
     <item>
       <title>Tailwing 1.0.0-rc.8.2</title>
