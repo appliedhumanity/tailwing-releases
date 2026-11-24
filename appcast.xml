@@ -5,6 +5,22 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.1.0-beta.9</title>
+      <description><![CDATA[<h2>Tailwing 1.1 Beta 9</h2>
+    <p><strong>Calls come first.</strong> While you're on a call, Tailwing pauses its downloads and background work, and picks them up again when the call ends. It also transcribes at a low priority, so your meeting app gets your Mac first.</p>
+    <p><strong>A new meeting banner.</strong> The banner that offers notes for a call is smaller and clearer. If you also use Parafoil, a new setting, "Let Parafoil take notes when it's running," lets it take the call instead.</p>
+    <p><strong>Shorter setup.</strong> Setup now covers only what your first meeting needs. After your first meeting, Home suggests what to set up next, starting with using your notes in Claude. Everything else is still in Settings.</p>
+    <p><strong>Better Ask answers.</strong> Catch-ups are tighter, and questions about what was settled find the answer more often.</p>
+    <p><strong>Invites work after setup.</strong> An invite link now counts for 30 days after you set up Tailwing, and you can paste one in Settings, Pro. When the friends you invite join, your Pro unlocks within the hour.</p>
+    <p><strong>Fixes.</strong> After a call ends normally, no "Notes stopped" bar stays on screen. The "Tailwing is still running" note appears in the right place on the right display. The offer to take notes closes by itself when the call stops using your microphone. Tailwing keeps taking notes when Granola is also open. Setup no longer lets you skip saving your recovery code. The toolbar shows "Starting…" while notes begin, then Stop.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Tue, 24 Nov 2026 20:04:49 +0000</pubDate>
+      <sparkle:version>202611241953</sparkle:version>
+      <sparkle:shortVersionString>1.1.0-beta.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/480a1def0513f985d6e39d9e71aecb99/Tailwing-1.1.0-beta.9.dmg" type="application/octet-stream" sparkle:edSignature="TBg2dic7oTG+BGgy6TLxfveCuWGdcowvKxbKrGPS4YT8epueH8mFv19+o89fmmLadKmY8pHxIMTTZiGvvQhgCA==" length="81899772"/>
+    </item>
+    <item>
       <title>Tailwing 1.1.0-beta.8.4</title>
       <description><![CDATA[<h2>Tailwing 1.1 Beta 8.4</h2>
     <p><strong>Ask is one conversation.</strong> Questions and answers now flow in one chat until you start a new one, and your recent chats are listed so you can go back to them. Sources show as small numbers in the answer, with the full list tucked under it. A suggested question now goes into the box so you can change it before you ask.</p>
@@ -66,36 +82,6 @@
       <sparkle:shortVersionString>1.1.0-beta.8.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/fdd6f41311c186ef2b1fd0636e7fc05d/Tailwing-1.1.0-beta.8.1.dmg" type="application/octet-stream" sparkle:edSignature="shXCBHa4oNiikAGPCAFLUkb8PvLnepxTM56bx5E4t+PIPE2G94DLDjIX389v4dqqPRVjQszVzkJnrRvOde/WAA==" length="80680092"/>
-    </item>
-    <item>
-      <title>Tailwing 1.1.0-beta.8</title>
-      <description><![CDATA[<h2>Tailwing 1.1 Beta 8</h2>
-    <p><strong>Notes that read like a document.</strong> Each note opens with what the meeting settled in two or three sentences, then a section for each topic under its own heading, with the decision first and its reasons under it. Points that only repeat a decision are gone, names are credited only where the transcript backs them, and steps start with the action. The page is set for reading, with clearer headings and stronger contrast.</p>
-    <p><strong>More decisions caught.</strong> A separate pass looks for what the meeting settled, including a proposal agreed with a short "yes" and a choice reached over several turns. Long meetings keep their decisions and steps. Names the meeting already knows, from the invite, your people, your projects and your dictionary, are spelled right in the transcript.</p>
-    <p><strong>Ask Tailwing, from anywhere.</strong> Ask is in the sidebar and on ⌘J, and asks about the page you're on: a meeting, a person, an organization, a project or all your notes. Make writes a follow-up email, a brief for the next meeting or a summary for your manager in one step. Ask now reads each meeting's decisions, next steps, people and dates, and searches by meaning in English meetings, so questions across meetings get answered. Your question stays in the field until an answer is on its way, and if Ask can't answer, it says why.</p>
-    <p><strong>A catalog of your meetings, built on this Mac.</strong> While your Mac is idle or plugged in, Tailwing files a card for each meeting and keeps a running summary for each person, organization and project. Ask reads them first. Private meetings are never included. You can pause it in Settings, Models.</p>
-    <p><strong>Live transcript in the note.</strong> While notes are running, the note shows the transcript as it arrives. After Stop it says "Writing notes…" and the sections arrive one by one. Write Up Again shows its progress straight away and keeps the old note readable until the new one lands. Rewrite Older Notes offers to bring earlier notes up to this version, in the background, keeping every earlier version and skipping notes you edited.</p>
-    <p><strong>Before and after a meeting.</strong> The meeting banner offers Remind Me in 5 Minutes, and asks which call to follow when two overlap. The brief for your next meeting arrives on its own. After a meeting, Tailwing can draft a follow-up email in your mail app, written on this Mac, to the people who attended. Pro features can be tried free a few times, at the moment they help.</p>
-    <p><strong>Calendar.</strong> This Week is now Calendar, with day and week views over the hours your meetings take. Meetings with notes open them, and an upcoming meeting shows its brief.</p>
-    <p><strong>Spoken translation in German and Ukrainian.</strong> Translation is spoken between English and German and between English and Ukrainian, a clause at a time. If a better voice for a language can be downloaded, Tailwing says where.</p>
-    <p><strong>Screen-share captures (Pro).</strong> When turned on in Settings, Meetings, Tailwing keeps a picture of the shared screen in Zoom or Google Meet each time it changes, with its text, inline in the transcript. Pictures stay on this Mac. Their text is used like the transcript.</p>
-    <p><strong>Camera with Tailwing.</strong> An optional camera that shows a small "Taking notes with Tailwing" label on your video. Set it up in Settings, Meetings.</p>
-    <p><strong>Video notes start on their own.</strong> When a video is playing and no call is on, Tailwing takes notes from the Mac's sound only, with the microphone off. A video's notes have no next steps or decisions; its instructions appear as steps shown.</p>
-    <p><strong>Next Steps in bulk.</strong> Select several steps to move, finish or clear them together, including on a project page. Ticking a step in a note moves it to Done with Undo. Every row that can belong to a project uses the same control.</p>
-    <p><strong>Faster.</strong> Opening a meeting is several times faster, Today and People switch in about half the time, and long notes scroll more smoothly.</p>
-    <p><strong>Fixes.</strong></p>
-    <ul>
-    <li>Actions across the app say when they worked and, when they didn't, why and what to do: saves, sends, copies, moves, downloads and removals.</li>
-    <li>A note's day on a next step shows in every language.</li>
-    <li>In your own notes and lists, you are "you".</li>
-    <li>The Neural Engine is used for speech whenever your Mac has one and one of your languages is supported.</li>
-    </ul>]]></description>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sat, 21 Nov 2026 07:11:01 +0000</pubDate>
-      <sparkle:version>202611210701</sparkle:version>
-      <sparkle:shortVersionString>1.1.0-beta.8</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/4bc13a3884d3735033ce4bb12ef72960/Tailwing-1.1.0-beta.8.dmg" type="application/octet-stream" sparkle:edSignature="XNoPI6yetJQKVCzfR3BtrfX3no1N36cpx5NbGDQkXmNZuS06UaLMgvmNKlSOV6S85qwAI46C1Il/v90r7r0rDg==" length="80653966"/>
     </item>
     <item>
       <title>Tailwing 1.0.0-rc.8.2</title>
