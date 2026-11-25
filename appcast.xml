@@ -5,6 +5,25 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.1.0-beta.10</title>
+      <description><![CDATA[<h2>Tailwing 1.1 Beta 10</h2>
+    <p><strong>One call, one set of notes.</strong> If Tailwing quits, closes unexpectedly or is reopened while your call is still going, it picks the same meeting up again: one transcript, and notes written once over the whole call. A call that was already split in two can be joined with Join with the Earlier Part.</p>
+    <p><strong>Notes that read like a document.</strong> Finished notes use the reading size with calmer spacing. Decisions have their own section, next steps read as a checklist with each owner's first name, and a line's time shows when you point at it. A decision appears once, without a label in front of it.</p>
+    <p><strong>Shorter, sharper notes.</strong> Bullets are about a fifth shorter. Decisions are listed once, in their own section. People are named instead of written as "Someone". Financial terms like SAFE and Carta are written correctly.</p>
+    <p><strong>Ask about this meeting.</strong> A field at the end of a finished meeting's notes asks about that meeting first, then all of them.</p>
+    <p><strong>A cleaner meeting header.</strong> Transcript, Ask, Folder, Copy and Share sit in the toolbar as real buttons, with Share the main one. A private meeting shows no Copy or Share there; Share and Save, which ask first, are in the options menu.</p>
+    <p><strong>Calmer during calls.</strong> The meeting's page no longer shows the live transcript while a call runs, unless you turn it on in Settings, Meetings. Live translation still shows it. The side panel opens wider.</p>
+    <p><strong>Steadier when your audio changes.</strong> Headphones that connect, disconnect or switch to your phone mid-call no longer freeze Tailwing. Your microphone stays where it is when only your speakers change, and the transcript notes it quietly if the microphone itself changes.</p>
+    <p><strong>Notes always finish.</strong> If writing the notes ever stalls, the meeting says so and offers Try Again. AI tools reading a meeting while its notes are being written are told how far along they are.</p>
+    <p><strong>Set up next.</strong> Set up next only suggests what you haven't connected yet.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Wed, 25 Nov 2026 16:34:33 +0000</pubDate>
+      <sparkle:version>202611251624</sparkle:version>
+      <sparkle:shortVersionString>1.1.0-beta.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/f87a54dee754fc7868cc5162972a3745/Tailwing-1.1.0-beta.10.dmg" type="application/octet-stream" sparkle:edSignature="jp6rymudArXb0ns5Mza8V0CH+NfG8t5PPGKN3jH/SLHQjqQDAc0KigJSvB1eZYD2WF8llXQzZiYnVz4jCcfIAQ==" length="82608593"/>
+    </item>
+    <item>
       <title>Tailwing 1.1.0-beta.9</title>
       <description><![CDATA[<h2>Tailwing 1.1 Beta 9</h2>
     <p><strong>Calls come first.</strong> While you're on a call, Tailwing pauses its downloads and background work, and picks them up again when the call ends. It also transcribes at a low priority, so your meeting app gets your Mac first.</p>
@@ -71,17 +90,6 @@
       <sparkle:shortVersionString>1.1.0-beta.8.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/e03cde3cd079444246d095e2845a3345/Tailwing-1.1.0-beta.8.2.dmg" type="application/octet-stream" sparkle:edSignature="JdOi7nogBIB6l0WUyUH99xZTWrm/hOjZS/gjhuH9R+MVWpKA4nj3cz8HvwBA0S6RqH54x0ZlaLG3EWbAco9tAg==" length="80875949"/>
-    </item>
-    <item>
-      <title>Tailwing 1.1.0-beta.8.1</title>
-      <description><![CDATA[<h2>Tailwing 1.1 Beta 8.1</h2>
-    <p><strong>Ask says when something isn't in your meetings.</strong> When you ask about a person, a project or a thing that your meetings never mention, Ask now says it couldn't find it and shows the closest match, instead of answering from a line that sounds similar. Answers also arrive faster.</p>]]></description>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sat, 21 Nov 2026 07:40:32 +0000</pubDate>
-      <sparkle:version>202611210732</sparkle:version>
-      <sparkle:shortVersionString>1.1.0-beta.8.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/fdd6f41311c186ef2b1fd0636e7fc05d/Tailwing-1.1.0-beta.8.1.dmg" type="application/octet-stream" sparkle:edSignature="shXCBHa4oNiikAGPCAFLUkb8PvLnepxTM56bx5E4t+PIPE2G94DLDjIX389v4dqqPRVjQszVzkJnrRvOde/WAA==" length="80680092"/>
     </item>
     <item>
       <title>Tailwing 1.0.0-rc.8.2</title>
