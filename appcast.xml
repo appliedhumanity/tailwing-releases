@@ -5,6 +5,18 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.1.0-beta.10.1</title>
+      <description><![CDATA[<h2>Tailwing 1.1 Beta 10.1</h2>
+    <p>Closing a Set up next suggestion now works.</p>
+    <p>Dictation is on from the start after a new install or a reset.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Wed, 25 Nov 2026 20:51:23 +0000</pubDate>
+      <sparkle:version>202611252040</sparkle:version>
+      <sparkle:shortVersionString>1.1.0-beta.10.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/fe075ebad0cf20a2ffc15ca9fccd8c7a/Tailwing-1.1.0-beta.10.1.dmg" type="application/octet-stream" sparkle:edSignature="sd2U2+yWfYAnbbDZz2ohUU8131JlyfQW8dgjQCuD3/mo83ji8qvcYrGmp4vjBbh9wfCiI2QCkwXL8Yzu5AvTAA==" length="82620613"/>
+    </item>
+    <item>
       <title>Tailwing 1.1.0-beta.10</title>
       <description><![CDATA[<h2>Tailwing 1.1 Beta 10</h2>
     <p><strong>One call, one set of notes.</strong> If Tailwing quits, closes unexpectedly or is reopened while your call is still going, it picks the same meeting up again: one transcript, and notes written once over the whole call. A call that was already split in two can be joined with Join with the Earlier Part.</p>
@@ -74,22 +86,6 @@
       <sparkle:shortVersionString>1.1.0-beta.8.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/a61ed95dac34f84cbfb776a3d9a29637/Tailwing-1.1.0-beta.8.3.dmg" type="application/octet-stream" sparkle:edSignature="d1m/mFRFnVuV1PuIJGPOQ0TixTsNbVIz4XswTHEKIY5MPzYv+6jKAlW9m7xZedbfuCWI6bpsB19KEjgwoKqNBg==" length="80940650"/>
-    </item>
-    <item>
-      <title>Tailwing 1.1.0-beta.8.2</title>
-      <description><![CDATA[<h2>Tailwing 1.1 Beta 8.2</h2>
-    <p><strong>Ask answers broad questions.</strong> Ask now answers questions like "what's going on in my meetings" from your most recent meetings, in a sentence or two for each.</p>
-    <p><strong>Ask follows the conversation.</strong> A follow-up such as "and when is that due?" is searched with the question before it. Ask also reads short forms ("abt", "wat"), finds a person from the start of their name, and answers "what do I owe" from your own next steps.</p>
-    <p><strong>A new Ask box.</strong> The Ask field grows as you type, up to six lines. Shift-Return starts a new line, Return sends, and the Send button sits in the box with the meetings it will read.</p>
-    <p><strong>Ask tells you when it is still getting ready.</strong> On a new install, or after a reset, Ask across all your meetings shows how far along the download or the indexing is and asks you to try again in a few minutes. If indexing is paused or has stopped moving, Ask answers from what is indexed and says it may leave some meetings out.</p>
-    <p><strong>The Screen Recording button adds Tailwing to the list.</strong> The Screen Recording button now adds Tailwing to the list in System Settings, so you can switch it on.</p>
-    <p><strong>Known limits.</strong> In long answers across several meetings, Ask can leave out a detail that is in the lines it read, such as a second name in a list. This is next on the list for 8.3.</p>]]></description>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sun, 22 Nov 2026 03:53:05 +0000</pubDate>
-      <sparkle:version>202611220343</sparkle:version>
-      <sparkle:shortVersionString>1.1.0-beta.8.2</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/e03cde3cd079444246d095e2845a3345/Tailwing-1.1.0-beta.8.2.dmg" type="application/octet-stream" sparkle:edSignature="JdOi7nogBIB6l0WUyUH99xZTWrm/hOjZS/gjhuH9R+MVWpKA4nj3cz8HvwBA0S6RqH54x0ZlaLG3EWbAco9tAg==" length="80875949"/>
     </item>
     <item>
       <title>Tailwing 1.0.0-rc.8.2</title>
