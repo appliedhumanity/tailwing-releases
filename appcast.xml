@@ -5,6 +5,18 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.1.0-beta.10.2</title>
+      <description><![CDATA[<h2>Tailwing 1.1 Beta 10.2</h2>
+    <p>Dictation works with AirPods in.</p>
+    <p>Dictation no longer freezes Tailwing when your microphone changes.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Thu, 26 Nov 2026 02:52:59 +0000</pubDate>
+      <sparkle:version>202611260242</sparkle:version>
+      <sparkle:shortVersionString>1.1.0-beta.10.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/277b9e7badf66d285020c464d28e8bab/Tailwing-1.1.0-beta.10.2.dmg" type="application/octet-stream" sparkle:edSignature="lepLgHPQvDsFyOnD6w90sOLAfn8rFHfSvkz7oC/tgGL8HSAPav60rEXlAr3NsHKFJ8fkQLKC6hEASihakAsHCw==" length="82610007"/>
+    </item>
+    <item>
       <title>Tailwing 1.1.0-beta.10.1</title>
       <description><![CDATA[<h2>Tailwing 1.1 Beta 10.1</h2>
     <p>Closing a Set up next suggestion now works.</p>
@@ -72,20 +84,6 @@
       <sparkle:shortVersionString>1.1.0-beta.8.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/4e245b9f6190da64250453e3912ecb08/Tailwing-1.1.0-beta.8.4.dmg" type="application/octet-stream" sparkle:edSignature="6BAE60IdTiPicyx5XQpDD+CSOGs/43lWNPXPTf0pHvRSIV3r7Lhbxe4CX2Hmo7BqVMn+VzTxg0AC7U/UZHjFDA==" length="81791127"/>
-    </item>
-    <item>
-      <title>Tailwing 1.1.0-beta.8.3</title>
-      <description><![CDATA[<h2>Tailwing 1.1 Beta 8.3</h2>
-    <p><strong>Suggested questions.</strong> When the Ask box is empty, a few questions sit under it to start from: "Catch me up", "What do I owe people?" and "What changed this week?" across your meetings, or "Summarize this meeting", "What did I agree to?" and "What's still open?" on a meeting. Click one to ask it. They go away as soon as you type.</p>
-    <p><strong>Ask lists every item.</strong> When you ask who was there, which ones, or what the risks are, Ask now lists each one the meetings give, each with its source, instead of stopping at the first.</p>
-    <p><strong>Ask knows more ways of saying things.</strong> Ask also searches for common alternatives to your words, such as price for pricing, or deadline for due.</p>
-    <p><strong>Ask finds what a person said about a topic.</strong> A question about what someone said on a subject now reads the lines near that subject first, including lines where others mention them.</p>]]></description>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Sun, 22 Nov 2026 07:52:39 +0000</pubDate>
-      <sparkle:version>202611220743</sparkle:version>
-      <sparkle:shortVersionString>1.1.0-beta.8.3</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/a61ed95dac34f84cbfb776a3d9a29637/Tailwing-1.1.0-beta.8.3.dmg" type="application/octet-stream" sparkle:edSignature="d1m/mFRFnVuV1PuIJGPOQ0TixTsNbVIz4XswTHEKIY5MPzYv+6jKAlW9m7xZedbfuCWI6bpsB19KEjgwoKqNBg==" length="80940650"/>
     </item>
     <item>
       <title>Tailwing 1.0.0-rc.8.2</title>
