@@ -5,6 +5,24 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.1.0-beta.11</title>
+      <description><![CDATA[<h2>Tailwing 1.1 Beta 11</h2>
+    <p><strong>Calls come first.</strong> If your notes are still being written when a call starts, Tailwing pauses them at once and carries on where it left off after the call. Join opens Zoom or Teams directly.</p>
+    <p><strong>First names.</strong> Notes use first names, and only names said in the meeting or on the invite. Tailwing no longer guesses a surname from an email address.</p>
+    <p><strong>Your own notes in place.</strong> Lines you type during a call go under the topic being discussed when you typed them, marked with a small pencil. Return starts a new point, and Tab and Shift-Tab nest it.</p>
+    <p><strong>Clearer progress.</strong> While notes are being written, the page says how far along they are and how long is left.</p>
+    <p><strong>One place to ask.</strong> Asking from the bar no longer opens a second Ask panel. Starter questions match your work, and a question about several meetings reads each of them in full.</p>
+    <p><strong>Dictation from the start.</strong> Dictation is on after setup, and setup asks for the permission it needs to type.</p>
+    <p><strong>In your language.</strong> Everything added since the last update is translated into all 24 languages.</p>
+    <p><strong>Smaller fixes.</strong> Send To no longer covers a line's time, exports show Decisions once, and the sample meeting stays out of your exports.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sat, 28 Nov 2026 05:25:29 +0000</pubDate>
+      <sparkle:version>202611280513</sparkle:version>
+      <sparkle:shortVersionString>1.1.0-beta.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/de92e1508c1f84384c37bbf43cef57dc/Tailwing-1.1.0-beta.11.dmg" type="application/octet-stream" sparkle:edSignature="Pp/VBmDaFWirY0BNWSgoaOafQ/1Jm5TqPkMLS8doPfOuxes13KYjK2evFE8xDf5kXDrHjf+s2m4BqLOavwRBCg==" length="84445945"/>
+    </item>
+    <item>
       <title>Tailwing 1.1.0-beta.10.2</title>
       <description><![CDATA[<h2>Tailwing 1.1 Beta 10.2</h2>
     <p>Dictation works with AirPods in.</p>
@@ -62,28 +80,6 @@
       <sparkle:shortVersionString>1.1.0-beta.9</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/480a1def0513f985d6e39d9e71aecb99/Tailwing-1.1.0-beta.9.dmg" type="application/octet-stream" sparkle:edSignature="TBg2dic7oTG+BGgy6TLxfveCuWGdcowvKxbKrGPS4YT8epueH8mFv19+o89fmmLadKmY8pHxIMTTZiGvvQhgCA==" length="81899772"/>
-    </item>
-    <item>
-      <title>Tailwing 1.1.0-beta.8.4</title>
-      <description><![CDATA[<h2>Tailwing 1.1 Beta 8.4</h2>
-    <p><strong>Ask is one conversation.</strong> Questions and answers now flow in one chat until you start a new one, and your recent chats are listed so you can go back to them. Sources show as small numbers in the answer, with the full list tucked under it. A suggested question now goes into the box so you can change it before you ask.</p>
-    <p><strong>Notes appear as they are written.</strong> After a meeting, each section of the notes shows up as soon as it is ready, with Transcribing and then Processing shown while you wait.</p>
-    <p><strong>Settings has more tabs.</strong> Translation, People, Ask, and Camera &amp; Screen each have their own tab, so things are easier to find.</p>
-    <p><strong>Taking notes stays in view.</strong> While Tailwing is taking notes, a bar on every other page shows it, with Back to Notes to return. If notes stop without you pressing Stop, Tailwing says why and offers Resume.</p>
-    <p><strong>Names in one-on-one meetings.</strong> In a one-on-one, the live transcript and the notes name the other person, and people who declined the invitation are left out. A meeting linked to a calendar event keeps the event's title.</p>
-    <p><strong>AirPods and Bluetooth headsets.</strong> Tailwing no longer switches your headset into its lower-quality call mode. It uses the microphone your call is using, or your Mac's built-in microphone.</p>
-    <p><strong>Live translation hears the call's language.</strong> Tailwing now picks up the language people are speaking during the call and starts live translation for it.</p>
-    <p><strong>Cleaner next steps.</strong> Notes now drop duplicate and fragment next steps, and in a one-on-one each step goes to the person who took it on.</p>
-    <p><strong>Camera and Screen Recording setup.</strong> New step-by-step guides in Settings, Camera &amp; Screen walk you through allowing Tailwing in macOS and choosing it in your meeting app, and show Ready when everything is set.</p>
-    <p><strong>Set up before your first meeting.</strong> The welcome screen now suggests finishing setup before your first call, and shows how the download is going.</p>
-    <p><strong>Clearer downloads.</strong> One time estimate shows everywhere a download is mentioned, and anything waiting on a download says so.</p>
-    <p><strong>Fixes.</strong> "How are my meetings going?" now gets a catch-up. Amounts like $55k export correctly.</p>]]></description>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 24 Nov 2026 04:03:03 +0000</pubDate>
-      <sparkle:version>202611240353</sparkle:version>
-      <sparkle:shortVersionString>1.1.0-beta.8.4</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/4e245b9f6190da64250453e3912ecb08/Tailwing-1.1.0-beta.8.4.dmg" type="application/octet-stream" sparkle:edSignature="6BAE60IdTiPicyx5XQpDD+CSOGs/43lWNPXPTf0pHvRSIV3r7Lhbxe4CX2Hmo7BqVMn+VzTxg0AC7U/UZHjFDA==" length="81791127"/>
     </item>
     <item>
       <title>Tailwing 1.0.0-rc.8.2</title>
