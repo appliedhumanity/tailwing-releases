@@ -5,6 +5,20 @@
     <link>https://updates.tailwing.co/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Tailwing 1.1.0-beta.11.1</title>
+      <description><![CDATA[<h2>Tailwing 1.1 Beta 11.1</h2>
+    <p><strong>First names for voices too.</strong> A voice Tailwing names from the invite now gets only the first name said in the meeting. Names it had already learned with a surname built from an email address are fixed when you update. Names you typed or confirmed stay as they are.</p>
+    <p><strong>Next steps once.</strong> A next step said twice in a meeting appears once in the notes.</p>
+    <p><strong>Disk space.</strong> Tailwing clears the temporary files speech models leave behind, which on some Macs had grown to many gigabytes.</p>
+    <p><strong>Shorter Settings.</strong> Each option says what it does and what changes, and nothing more.</p>]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <pubDate>Sat, 28 Nov 2026 18:38:04 +0000</pubDate>
+      <sparkle:version>202611281827</sparkle:version>
+      <sparkle:shortVersionString>1.1.0-beta.11.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://updates.tailwing.co/d/86617f6150a933094944dfb02506e717/Tailwing-1.1.0-beta.11.1.dmg" type="application/octet-stream" sparkle:edSignature="NfQnpaERVjvXolIFbZco73kj2rOP+Bq0m2t011ykeSxUB+For19r/tJ82lFWcZOiPRs4wPTAjRKI2mWE095qAA==" length="84492861"/>
+    </item>
+    <item>
       <title>Tailwing 1.1.0-beta.11</title>
       <description><![CDATA[<h2>Tailwing 1.1 Beta 11</h2>
     <p><strong>Calls come first.</strong> If your notes are still being written when a call starts, Tailwing pauses them at once and carries on where it left off after the call. Join opens Zoom or Teams directly.</p>
@@ -64,22 +78,6 @@
       <sparkle:shortVersionString>1.1.0-beta.10</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://updates.tailwing.co/d/f87a54dee754fc7868cc5162972a3745/Tailwing-1.1.0-beta.10.dmg" type="application/octet-stream" sparkle:edSignature="jp6rymudArXb0ns5Mza8V0CH+NfG8t5PPGKN3jH/SLHQjqQDAc0KigJSvB1eZYD2WF8llXQzZiYnVz4jCcfIAQ==" length="82608593"/>
-    </item>
-    <item>
-      <title>Tailwing 1.1.0-beta.9</title>
-      <description><![CDATA[<h2>Tailwing 1.1 Beta 9</h2>
-    <p><strong>Calls come first.</strong> While you're on a call, Tailwing pauses its downloads and background work, and picks them up again when the call ends. It also transcribes at a low priority, so your meeting app gets your Mac first.</p>
-    <p><strong>A new meeting banner.</strong> The banner that offers notes for a call is smaller and clearer. If you also use Parafoil, a new setting, "Let Parafoil take notes when it's running," lets it take the call instead.</p>
-    <p><strong>Shorter setup.</strong> Setup now covers only what your first meeting needs. After your first meeting, Home suggests what to set up next, starting with using your notes in Claude. Everything else is still in Settings.</p>
-    <p><strong>Better Ask answers.</strong> Catch-ups are tighter, and questions about what was settled find the answer more often.</p>
-    <p><strong>Invites work after setup.</strong> An invite link now counts for 30 days after you set up Tailwing, and you can paste one in Settings, Pro. When the friends you invite join, your Pro unlocks within the hour.</p>
-    <p><strong>Fixes.</strong> After a call ends normally, no "Notes stopped" bar stays on screen. The "Tailwing is still running" note appears in the right place on the right display. The offer to take notes closes by itself when the call stops using your microphone. Tailwing keeps taking notes when Granola is also open. Setup no longer lets you skip saving your recovery code. The toolbar shows "Starting…" while notes begin, then Stop.</p>]]></description>
-      <sparkle:channel>beta</sparkle:channel>
-      <pubDate>Tue, 24 Nov 2026 20:04:49 +0000</pubDate>
-      <sparkle:version>202611241953</sparkle:version>
-      <sparkle:shortVersionString>1.1.0-beta.9</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://updates.tailwing.co/d/480a1def0513f985d6e39d9e71aecb99/Tailwing-1.1.0-beta.9.dmg" type="application/octet-stream" sparkle:edSignature="TBg2dic7oTG+BGgy6TLxfveCuWGdcowvKxbKrGPS4YT8epueH8mFv19+o89fmmLadKmY8pHxIMTTZiGvvQhgCA==" length="81899772"/>
     </item>
     <item>
       <title>Tailwing 1.0.0-rc.8.2</title>
